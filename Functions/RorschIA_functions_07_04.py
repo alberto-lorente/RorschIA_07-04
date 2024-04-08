@@ -399,22 +399,22 @@ def get_np(sentence):
 
 #CLASSIFICATION RELATED DEFS
 
-def classify_contents(text, model_contents=r"Models\Contents\svm_contents_V1-03-04.sav"):
+# def classify_contents(text, model_contents=r"Models\Contents\svm_contents_V1-03-04.sav"):
     
-    clf = pickle.load(open(model_contents, "rb"))
+#     clf = pickle.load(open(model_contents, "rb"))
     
-    prediction = clf.predict([text])[0]
+#     prediction = clf.predict([text])[0]
     
-    return prediction
+#     return prediction
 
 
-def classify_determinants(text, model_determinants=r"Models\Determinants\svm_determinants_V1-03-04.sav"):
+# def classify_determinants(text, model_determinants=r"Models\Determinants\svm_determinants_V1-03-04.sav"):
     
-    clf_determinants = pickle.load(open(model_determinants, "rb"))
+#     clf_determinants = pickle.load(open(model_determinants, "rb"))
     
-    prediction = clf_determinants.predict([text])[0]
+#     prediction = clf_determinants.predict([text])[0]
     
-    return prediction
+#     return prediction
 
 # copied from the ML development notebook
 
@@ -465,7 +465,7 @@ def evaluate_one_vs_rest(path, text):
     return final_results
   
   
-def eval(list_dicts, model_contents=r"Models\Contents\pipeline_contents_One-Many_V2-07-04.sav", model_determinants=r"Models\Determinants\pipeline_determinants_One-Many_V2-07-04.sav"):
+def evaluation(list_dicts, model_contents=r"..\Models\Contents\pipeline_contents_One-Many_V2-07-04.sav", model_determinants=r"..\Models\Determinants\pipeline_determinants_One-Many_V2-07-04.sav"):
     """This function runs the evaluation with our first two models. 
     It takes as input the list of dictionary responses, prints the evaluation 
     and returns the content and determinant labels for each response in dictionary form.   
@@ -496,29 +496,34 @@ def eval(list_dicts, model_contents=r"Models\Contents\pipeline_contents_One-Many
             noun_phrases, coordination = get_np(sentence)
             dict_eval["noun_phrase"] = noun_phrases
 
+            print("Response {}: ".format(j), sentence)
             
             
             if noun_phrases == "no meaningful NP found":
-                contents = "None"
-                determinants = "None"
-                dict_eval["content"] = contents
-                dict_eval["determinant"] = determinants
+                # contents = "None"
+                # determinants = "None"
+                dict_eval["content"] =  "None"
+                dict_eval["determinant"] =  "None"
+                dict_eval["coordination"] = coordination
             
             elif coordination == True:
+                print("Coordination Found!")
+                
                 contents = []
                 determinants = []
+                dict_eval["coordination"] = coordination
+                
                 for np in noun_phrases:
                     
-                    print("Coordination Found!")
-                    
                     content = evaluate_one_vs_rest(model_contents, np)
-                    contents.append(content)
+                    contents.append((content, np))
                     
                     determinant = evaluate_one_vs_rest(model_determinants, np)
-                    determinants.append(determinant)
+                    determinants.append((determinant, np))
                     
                     dict_eval["content"] = contents
                     dict_eval["determinant"] = determinants
+                    
                     
                 # print(response, content)
             elif coordination == False:
@@ -530,13 +535,15 @@ def eval(list_dicts, model_contents=r"Models\Contents\pipeline_contents_One-Many
                 
                 dict_eval["content"] = contents
                 dict_eval["determinant"] = determinants
+                dict_eval["coordination"] = coordination
                 
-            dict_eval["position"] = None
-            dict_eval["colour"] = None
+            # dict_eval["position"] = None
+            # dict_eval["colour"] = None
             
             list_evaluation_figure.append(dict_eval)
             
-            print("Response {}: ".format(j), sentence,"\nNoun Phrase(s):", noun_phrases, "\nContent:", contents , "\nDeterminant:", determinants, "\n")
+            print("\nNoun Phrase(s):", noun_phrases, "\nContent:", contents , "\nDeterminant:", determinants, "\n")
+            
             
             j = 1 + j
             
@@ -554,7 +561,7 @@ def raw_text_response_eval(raw_text):
 
     list_dicts = transform_dictionary_to_figure_list(responses)
 
-    evaluation = eval(list_dicts)
+    evaluation = evaluation(list_dicts)
     
     return evaluation
 
@@ -565,6 +572,6 @@ def translated_dict_response_eval(dictionary):
 
     list_dicts = transform_dictionary_to_figure_list(responses)
 
-    evaluation = eval(list_dicts)
+    evaluation = evaluation(list_dicts)
     
     return evaluation
