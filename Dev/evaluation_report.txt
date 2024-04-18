@@ -29,3 +29,368 @@ Response 3: A rooster's head with a crest Fighter plane, glider, jet engine fire
 Noun Phrase(s):["A rooster 's head with a crest Fighter plane glider jet engine fire", 'some kind of caterpillar with a big belly']
 Content:[('Hd, Radio', "A rooster 's head with a crest Fighter plane glider jet engine fire"), ('(H), Sc', 'some kind of caterpillar with a big belly')]
 Determinant:[('FE', "A rooster 's head with a crest Fighter plane glider jet engine fire"), ('K', 'some kind of caterpillar with a big belly')]
+Figure_1
+Response 1: Some kind of beetle with big wings, or it could be some kind of frog.Coordination Found!
+Noun Phrase(s):['Some kind of beetle with big wings', 'some kind of frog']
+Content:[('(H), Sc', 'Some kind of beetle with big wings'), ('H', 'some kind of frog')]
+Determinant:[('K', 'Some kind of beetle with big wings'), ('K', 'some kind of frog')]
+Response 2: Some kind of iking mask with four eyes.
+Noun Phrase(s):Some kind of iking mask with four eyes
+Content:Art, Hd
+Determinant:F
+Response 3: Some kind of silhouette.
+Noun Phrase(s):Some kind of silhouette
+Content:A, Alim
+Determinant:kan
+Response 4: A small character with an open mouth who looks surprised and his reflection there.Coordination Found!
+Noun Phrase(s):['A small character with an open mouth who looks surprised', 'his reflection there']
+Content:[('Ge, Pays', 'A small character with an open mouth who looks surprised'), ('(A), Vet', 'his reflection there')]
+Determinant:[('C, "CF", E', 'A small character with an open mouth who looks surprised'), ('F', 'his reflection there')]
+Figure_2
+Response 1: Two characters making contact or fighting because there's blood or a leg has been cut off.Coordination Found!
+Noun Phrase(s):['Two characters', 'blood', "Two characters making contact or fighting because there 's blood", 'no meaningful NP found']
+Content:[('Abs, Ad', 'Two characters'), ('Hd', 'blood'), ('Anat', "Two characters making contact or fighting because there 's blood"), ('A, Nat', 'no meaningful NP found')]
+Determinant:[('K', 'Two characters'), ('F', 'blood'), ('F', "Two characters making contact or fighting because there 's blood"), ('CF, kan', 'no meaningful NP found')]
+Response 2: Lungs.
+Noun Phrase(s):Lungs
+Content:Anat
+Determinant:FE
+Response 3: A rooster's head with a crest Fighter plane, glider, jet engine fire; again, it could be a larger one sending missiles Trunk men, perhaps irrational or some kind of caterpillar with a big belly.Coordination Found!
+Noun Phrase(s):["A rooster 's head with a crest Fighter plane glider jet engine fire", 'some kind of caterpillar with a big belly']
+Content:[('Hd, Radio', "A rooster 's head with a crest Fighter plane glider jet engine fire"), ('(H), Sc', 'some kind of caterpillar with a big belly')]
+Determinant:[('FE', "A rooster 's head with a crest Fighter plane glider jet engine fire"), ('K', 'some kind of caterpillar with a big belly')]
+Figure_1
+Response 1: Some kind of beetle with big wings, or it could be some kind of frog.Coordination Found!
+Noun Phrase(s):['Some kind of beetle with big wings', 'some kind of frog']
+Content:[('(H), Sc', 'Some kind of beetle with big wings'), ('H', 'some kind of frog')]
+Determinant:[('K', 'Some kind of beetle with big wings'), ('K', 'some kind of frog')]
+Response 2: Some kind of iking mask with four eyes.
+Noun Phrase(s):Some kind of iking mask with four eyes
+Content:Art, Hd
+Determinant:F
+Response 3: Some kind of silhouette.
+Noun Phrase(s):Some kind of silhouette
+Content:A, Alim
+Determinant:kan
+Response 4: A small character with an open mouth who looks surprised and his reflection there.Coordination Found!
+Noun Phrase(s):['A small character with an open mouth who looks surprised', 'his reflection there']
+Content:[('Ge, Pays', 'A small character with an open mouth who looks surprised'), ('(A), Vet', 'his reflection there')]
+Determinant:[('C, "CF", E', 'A small character with an open mouth who looks surprised'), ('F', 'his reflection there')]
+Figure_2
+Response 1: Two characters making contact or fighting because there's blood or a leg has been cut off.Coordination Found!
+Noun Phrase(s):['Two characters', 'blood', "Two characters making contact or fighting because there 's blood", 'no meaningful NP found']
+Content:[('Abs, Ad', 'Two characters'), ('Hd', 'blood'), ('Anat', "Two characters making contact or fighting because there 's blood"), ('A, Nat', 'no meaningful NP found')]
+Determinant:[('K', 'Two characters'), ('F', 'blood'), ('F', "Two characters making contact or fighting because there 's blood"), ('CF, kan', 'no meaningful NP found')]
+Response 2: Lungs.
+Noun Phrase(s):Lungs
+Content:Anat
+Determinant:FE
+Response 3: A rooster's head with a crest Fighter plane, glider, jet engine fire; again, it could be a larger one sending missiles Trunk men, perhaps irrational or some kind of caterpillar with a big belly.Coordination Found!
+Noun Phrase(s):["A rooster 's head with a crest Fighter plane glider jet engine fire", 'some kind of caterpillar with a big belly']
+Content:[('Hd, Radio', "A rooster 's head with a crest Fighter plane glider jet engine fire"), ('(H), Sc', 'some kind of caterpillar with a big belly')]
+Determinant:[('FE', "A rooster 's head with a crest Fighter plane glider jet engine fire"), ('K', 'some kind of caterpillar with a big belly')]
+Figure_3
+Response 1: Two oddly shaped guitars with twisted necks.
+Noun Phrase(s):Two
+Content:Elem, Nat
+Determinant:K
+Response 2: Again, two figures face to face, strangely constituted, like Picasso.
+Noun Phrase(s):two figures
+Content:Frag
+Determinant:F
+Response 3: Or two figures as one.Coordination Found!
+Noun Phrase(s):['no meaningful NP found', 'two figures as one']
+Content:[('A, Nat', 'no meaningful NP found'), ('A, Frag', 'two figures as one')]
+Determinant:[('CF, kan', 'no meaningful NP found'), ('kan', 'two figures as one')]
+Response 4: Two kinds of missiles or torpedoes.Coordination Found!
+Noun Phrase(s):['Two kinds of missiles', 'no meaningful NP found']
+Content:[('(Hd), A, Vet', 'Two kinds of missiles'), ('A, Nat', 'no meaningful NP found')]
+Determinant:[('F', 'Two kinds of missiles'), ('CF, kan', 'no meaningful NP found')]
+Response 5: Lungs or a butterfly.Coordination Found!
+Noun Phrase(s):['Lungs', 'a butterfly']
+Content:[('Anat', 'Lungs'), ('H, Hd', 'a butterfly')]
+Determinant:[('FE', 'Lungs'), ('"FC"', 'a butterfly')]
+Response 6: Just part of an old man with his cane, or an embryo.Coordination Found!
+Noun Phrase(s):['Just part of an old man with his cane', 'an embryo']
+Content:[('Anat, Hd', 'Just part of an old man with his cane'), ('A, Pays', 'an embryo')]
+Determinant:[('F', 'Just part of an old man with his cane'), ('kan', 'an embryo')]
+Response 7: Some kind of big beast, you can see the inside of its body, the mandibles.
+Noun Phrase(s):big beast
+Content:(Hd)
+Determinant:K
+Figure_4
+Response 1: I see yet another bizarre creature, a colossus, with wings there and strange legs.Coordination Found!
+Noun Phrase(s):['a colossus', 'strange legs']
+Content:[('(Hd)', 'a colossus'), ('Obj', 'strange legs')]
+Determinant:[('K', 'a colossus'), ('F', 'strange legs')]
+Response 2: Two figures under a kind of burka.
+Noun Phrase(s):Two figures under a kind of burka
+Content:H
+Determinant:K
+Response 3: The fly's head (film).
+Noun Phrase(s):The fly 's head (film)
+Content:Ad
+Determinant:F
+Response 4: A baby crocodile's head, or a pig's since there's no ear, or maybe a mole, some kind of trunk.Coordination Found!
+Noun Phrase(s):["A baby crocodile 's head", "a pig 's since there 's no ear", "A baby crocodile 's head or a pig 's since there 's no ear", 'maybe a mole some kind of trunk']
+Content:[('Alim', "A baby crocodile 's head"), ('Ad', "a pig 's since there 's no ear"), ('H, Hd', "A baby crocodile 's head or a pig 's since there 's no ear"), ('Nat', 'maybe a mole some kind of trunk')]
+Determinant:[('FC, K', "A baby crocodile 's head"), ('F', "a pig 's since there 's no ear"), ('"FC"', "A baby crocodile 's head or a pig 's since there 's no ear"), ('CF', 'maybe a mole some kind of trunk')]
+Figure_5
+Response 1: I also see a sort of cross between a bat and a snail, and the legs are a bit strange.Coordination Found!
+Noun Phrase(s):['cross', 'a snail', 'cross', 'the legs']
+Content:[('A', 'cross'), ('Hd, Sc', 'a snail'), ('A', 'cross'), ('A, Abs, Bot', 'the legs')]
+Determinant:[('kan', 'cross'), ('FE, K', 'a snail'), ('kan', 'cross'), ('CF, kan', 'the legs')]
+Response 2: Otherwise, I don't see anything else.
+Noun Phrase(s):no meaningful NP found
+Content:[('A', 'cross'), ('Hd, Sc', 'a snail'), ('A', 'cross'), ('A, Abs, Bot', 'the legs')]
+Determinant:[('kan', 'cross'), ('FE, K', 'a snail'), ('kan', 'cross'), ('CF, kan', 'the legs')]
+Response 3: Maybe two very small heads, back to back.
+Noun Phrase(s):Maybe two very small heads back to back
+Content:Hd, Vet
+Determinant:F
+Response 4: The ACDC guitarist: his head with his hair.
+Noun Phrase(s):The ACDC guitarist : his head with his hair
+Content:H
+Determinant:K
+Figure_6
+Response 1: A rather bizarre dragonfly with half-destroyed wings.
+Noun Phrase(s):half - destroyed wings
+Content:Hd, Vet
+Determinant:F
+Response 2: Here, the jaw of a beast with fangs inside its mouth, but there's no eye, so maybe it's a carnivorous plant.Coordination Found!
+Noun Phrase(s):['Here the jaw of a beast with fangs inside its mouth', 'no eye']
+Content:[('(H), Alim', 'Here the jaw of a beast with fangs inside its mouth'), ('Hd, Vet', 'no eye')]
+Determinant:[('F', 'Here the jaw of a beast with fangs inside its mouth'), ('F', 'no eye')]
+Response 3: The Sandman (in Spiderman) returning to human form.
+Noun Phrase(s):The Sandman (in Spiderman) returning to human form
+Content:H, Sc
+Determinant:F
+Response 4: Otherwise, that's all I can see.
+Noun Phrase(s):no meaningful NP found
+Content:H, Sc
+Determinant:F
+Response 5: Or lungs hidden right there, or some kind of flageolet seeds.Coordination Found!
+Noun Phrase(s):['no meaningful NP found', 'lungs hidden right there', 'Or lungs hidden right there', 'some kind of flageolet seeds']
+Content:[('A, Nat', 'no meaningful NP found'), ('Art, H, Sc', 'lungs hidden right there'), ('Art, Sc', 'Or lungs hidden right there'), ('Ad, Alim', 'some kind of flageolet seeds')]
+Determinant:[('CF, kan', 'no meaningful NP found'), ('K', 'lungs hidden right there'), ('F', 'Or lungs hidden right there'), ('F', 'some kind of flageolet seeds')]
+Response 6: Or some kind of figure with something to leap on.Coordination Found!
+Noun Phrase(s):['no meaningful NP found', 'some kind of figure with something to leap on']
+Content:[('A, Nat', 'no meaningful NP found'), ('A, Obj, Vet', 'some kind of figure with something to leap on')]
+Determinant:[('CF, kan', 'no meaningful NP found'), ('FE, kan', 'some kind of figure with something to leap on')]
+Response 7: Finally, maybe it's some kind of extraterrestrial angel going to an island because it's got wings.
+Noun Phrase(s):some kind of extraterrestrial angel going to an island because it 's got wings
+Content:Pays
+Determinant:CF
+Response 8: He comes down that way, so maybe it's a child about to be born.
+Noun Phrase(s):a child about
+Content:Ad
+Determinant:F
+Figure_7
+Response 1: Two species of seahorse with a proboscis here; they're both connected by something that's there; they look frozen because there are stalactites, like perhaps prehistoric animals that have been frozen.
+Noun Phrase(s):seahorse
+Content:H, Sc
+Determinant:EF, FE, K
+Response 2: Or over there, you can see some kind of figures with chainsaw-like arms trying to get closer.Coordination Found!
+Noun Phrase(s):['no meaningful NP found', 'figures with chainsaw - like arms']
+Content:[('A, Nat', 'no meaningful NP found'), ('(H), Anat', 'figures with chainsaw - like arms')]
+Determinant:[('CF, kan', 'no meaningful NP found'), ('FC, K', 'figures with chainsaw - like arms')]
+Response 3: Prussian army soldiers with spikes on their helmets.
+Noun Phrase(s):Prussian army soldiers with spikes on their helmets
+Content:Ad, Hd
+Determinant:F
+Response 4: Here we can see a kind of head with a snout, but given the prominence, it could be the king's jester.Coordination Found!
+Noun Phrase(s):['head', 'the prominence']
+Content:[('(Hd), Ad', 'head'), ('Art', 'the prominence')]
+Determinant:[('F', 'head'), ('K', 'the prominence')]
+Response 5: If you integrate the white, you can see a mask.
+Noun Phrase(s):no meaningful NP found
+Content:[('(Hd), Ad', 'head'), ('Art', 'the prominence')]
+Determinant:[('F', 'head'), ('K', 'the prominence')]
+Response 6: A Mayan weapon; or perhaps not a weapon, a Mayan cult object or some kind of mushroom.Coordination Found!
+Noun Phrase(s):['A Mayan weapon ;', 'perhaps not a weapon a Mayan cult object', 'A Mayan weapon ; or perhaps not a weapon a Mayan cult object', 'some kind of mushroom']
+Content:[('Obj, Vet', 'A Mayan weapon ;'), ('Obj', 'perhaps not a weapon a Mayan cult object'), ('Hd, Radio, Sex', 'A Mayan weapon ; or perhaps not a weapon a Mayan cult object'), ('H', 'some kind of mushroom')]
+Determinant:[('F', 'A Mayan weapon ;'), ('"FC", FE', 'perhaps not a weapon a Mayan cult object'), ('F', 'A Mayan weapon ; or perhaps not a weapon a Mayan cult object'), ('K', 'some kind of mushroom')]
+Figure_8
+Response 1: A microscope view with the right dyes.
+Noun Phrase(s):A microscope view with the right dyes
+Content:Anat
+Determinant:F
+Response 2: Two species of insect foraging on what's there.
+Noun Phrase(s):Two species of insect foraging on what 's there
+Content:(H), A
+Determinant:kan
+Response 3: A fly's head with something dripping from it (orange).
+Noun Phrase(s):A fly 's head with something dripping from it (orange)
+Content:H, Vet
+Determinant:K
+Response 4: Vocal cords (green lines).
+Noun Phrase(s):Vocal cords (green lines)
+Content:Anat, Hd
+Determinant:F, K
+Response 5: A character with antennae of some kind, disregarding the vocal cords.
+Noun Phrase(s):A character with antennae of some kind disregarding the vocal cords
+Content:Anat, Hd
+Determinant:F
+Response 6: Two chameleons climbing a mountain; it looks like they're shaking hands; there's a transaction or something: they're giving money or recharging energy.Coordination Found!
+Noun Phrase(s):['a transaction', 'no meaningful NP found', 'a transaction or something', 'no meaningful NP found']
+Content:[('Ad, Hd', 'a transaction'), ('A, Nat', 'no meaningful NP found'), ('H', 'a transaction or something'), ('A, Nat', 'no meaningful NP found')]
+Determinant:[('F', 'a transaction'), ('CF, kan', 'no meaningful NP found'), ('K', 'a transaction or something'), ('CF, kan', 'no meaningful NP found')]
+Figure_9
+Response 1: Two kinds of deformed creatures approaching.
+Noun Phrase(s):Two kinds of deformed creatures approaching
+Content:Abs, Frag, Hd
+Determinant:FC, K
+Response 2: Two nostrils, perhaps a skull hidden by everything else.
+Noun Phrase(s):Two nostrils perhaps a skull hidden by everything else
+Content:Anat
+Determinant:F
+Response 3: A ghost's head partly hidden by the rest, or some kind of magnetic field.Coordination Found!
+Noun Phrase(s):["A ghost 's head partly hidden by the rest", 'some kind of magnetic field']
+Content:[('A, Ad', "A ghost 's head partly hidden by the rest"), ('H, Nat', 'some kind of magnetic field')]
+Determinant:[('F', "A ghost 's head partly hidden by the rest"), ('EF, K', 'some kind of magnetic field')]
+Response 4: Two islands or countries that reflect each other (green).Coordination Found!
+Noun Phrase(s):['Two islands', 'countries that reflect each other (green)']
+Content:[('(Hd)', 'Two islands'), ('A', 'countries that reflect each other (green)')]
+Determinant:[('K', 'Two islands'), ('kan', 'countries that reflect each other (green)')]
+Response 5: A piece of Parma ham (pink).
+Noun Phrase(s):A piece of Parma ham (pink)
+Content:Nat
+Determinant:C, FE
+Response 6: Some kind of roots, like the Sepultura logo (orange lines) Some kind of symbiotic matter that fuses together.
+Noun Phrase(s):Some kind of roots like the Sepultura logo (orange lines) Some kind of symbiotic matter that fuses together
+Content:Obj
+Determinant:K
+Response 7: A character with wings (green).
+Noun Phrase(s):A character with wings (green)
+Content:Art, Hd
+Determinant:F
+Figure_10
+Response 1: It's quite contemporary art, like Miro.
+Noun Phrase(s):quite contemporary art like Miro
+Content:Ge
+Determinant:FC
+Response 2: Two species of little bugs fighting over what's in the middle (black).
+Noun Phrase(s):Two species of little bugs fighting over what 's in the middle (black)
+Content:A
+Determinant:F, kan
+Response 3: Octopuses or alien policemen trying to separate them (blue).Coordination Found!
+Noun Phrase(s):['Octopuses', 'alien policemen']
+Content:[('A', 'Octopuses'), ('(A)', 'alien policemen')]
+Determinant:[('kan', 'Octopuses'), ('FE', 'alien policemen')]
+Response 4: Two little suns or comets (yellow).Coordination Found!
+Noun Phrase(s):['Two little suns', 'comets (yellow)']
+Content:[('A', 'Two little suns'), ('Elem', 'comets (yellow)')]
+Determinant:[('"CF"', 'Two little suns'), ('CF, K', 'comets (yellow)')]
+Response 5: Two caterpillars or the letter Omega with a spider or tuning fork at the tip (green).Coordination Found!
+Noun Phrase(s):['Two', 'the letter Omega with a spider', 'Two caterpillars or the letter Omega with a spider', 'the tip (green)']
+Content:[('Elem, Nat', 'Two'), ('H, Sc', 'the letter Omega with a spider'), ('H', 'Two caterpillars or the letter Omega with a spider'), ('A, Art', 'the tip (green)')]
+Determinant:[('K', 'Two'), ('F', 'the letter Omega with a spider'), ('K', 'Two caterpillars or the letter Omega with a spider'), ('kan', 'the tip (green)')]
+Response 6: Two kinds of embryos spitting out blue matter (pink).
+Noun Phrase(s):Two kinds of embryos
+Content:(Ad)
+Determinant:F
+Response 7: Two kinds of ants with a flame (black+yellow), catching up with the two things there (orange) or the Ghostrider's motorcycle.Coordination Found!
+Noun Phrase(s):['Two kinds of ants with a flame (black+yellow) catching up with the two things there (orange)', "the Ghostrider 's motorcycle"]
+Content:[('Pays', 'Two kinds of ants with a flame (black+yellow) catching up with the two things there (orange)'), ('A', "the Ghostrider 's motorcycle")]
+Determinant:[('F', 'Two kinds of ants with a flame (black+yellow) catching up with the two things there (orange)'), ('kan', "the Ghostrider 's motorcycle")]
+Response 8: I also see two eyes with strange mouths: the green is the horns, the blue the mouth, the gray an electric razor or some kind of sonic screwdriver.Coordination Found!
+Noun Phrase(s):['strange mouths', 'some kind of sonic screwdriver']
+Content:[('(H), Art', 'strange mouths'), ('Hd', 'some kind of sonic screwdriver')]
+Determinant:[('CF', 'strange mouths'), ('F', 'some kind of sonic screwdriver')]
+Response 9: Two figures with a blue ponpon are liquefying, perhaps made of skin and air (pink).Coordination Found!
+Noun Phrase(s):['Two figures with a blue ponpon', 'air (pink)']
+Content:[('(H)', 'Two figures with a blue ponpon'), ('Obj', 'air (pink)')]
+Determinant:[('"FC"', 'Two figures with a blue ponpon'), ('CF, K', 'air (pink)')]
+Response 10: The two ants will try to put a cap on them to stop them deflating.
+Noun Phrase(s):The two ants
+Content:A
+Determinant:kan
+Response 11: Two back brushes, a hairbrush or an odd compass (orange).Coordination Found!
+Noun Phrase(s):['Two back brushes a hairbrush', 'an odd compass (orange)']
+Content:[('Ad', 'Two back brushes a hairbrush'), ('(H), Art, Obj', 'an odd compass (orange)')]
+Determinant:[('F, kan', 'Two back brushes a hairbrush'), ('K', 'an odd compass (orange)')]
+Response 12: Finally, the two caterpillars have their astral projections coming out of their bodies.
+Noun Phrase(s):the two caterpillars
+Content:H, Sc
+Determinant:F
+Response 13: Two people supporting each other so as not to lose their balance and fall (central blue).Coordination Found!
+Noun Phrase(s):['Two people supporting each other so as not to lose their balance', '(central blue)']
+Content:[('H', 'Two people supporting each other so as not to lose their balance'), ('A', '(central blue)')]
+Determinant:[('K', 'Two people supporting each other so as not to lose their balance'), ('kan', '(central blue)')]
+Figure_1
+Response 1: Some kind of beetle with big wings, or it could be some kind of frog.Coordination Found!
+Noun Phrase(s):['Some kind of beetle with big wings', 'some kind of frog']
+Content:[('(H), Sc', 'Some kind of beetle with big wings'), ('H', 'some kind of frog')]
+Determinant:[('K', 'Some kind of beetle with big wings'), ('K', 'some kind of frog')]
+Response 2: Some kind of iking mask with four eyes.
+Noun Phrase(s):Some kind of iking mask with four eyes
+Content:Art, Hd
+Determinant:F
+Response 3: Some kind of silhouette.
+Noun Phrase(s):Some kind of silhouette
+Content:A, Alim
+Determinant:kan
+Response 4: A small character with an open mouth who looks surprised and his reflection there.Coordination Found!
+Noun Phrase(s):['A small character with an open mouth who looks surprised', 'his reflection there']
+Content:[('Ge, Pays', 'A small character with an open mouth who looks surprised'), ('(A), Vet', 'his reflection there')]
+Determinant:[('C, "CF", E', 'A small character with an open mouth who looks surprised'), ('F', 'his reflection there')]
+Figure_2
+Response 1: Two characters making contact or fighting because there's blood or a leg has been cut off.Coordination Found!
+Noun Phrase(s):['Two characters', 'blood', "Two characters making contact or fighting because there 's blood", 'no meaningful NP found']
+Content:[('Abs, Ad', 'Two characters'), ('Hd', 'blood'), ('Anat', "Two characters making contact or fighting because there 's blood"), ('A, Nat', 'no meaningful NP found')]
+Determinant:[('K', 'Two characters'), ('F', 'blood'), ('F', "Two characters making contact or fighting because there 's blood"), ('CF, kan', 'no meaningful NP found')]
+Response 2: Lungs.
+Noun Phrase(s):Lungs
+Content:Anat
+Determinant:FE
+Response 3: A rooster's head with a crest Fighter plane, glider, jet engine fire; again, it could be a larger one sending missiles Trunk men, perhaps irrational or some kind of caterpillar with a big belly.Coordination Found!
+Noun Phrase(s):["A rooster 's head with a crest Fighter plane glider jet engine fire", 'some kind of caterpillar with a big belly']
+Content:[('Hd, Radio', "A rooster 's head with a crest Fighter plane glider jet engine fire"), ('(H), Sc', 'some kind of caterpillar with a big belly')]
+Determinant:[('FE', "A rooster 's head with a crest Fighter plane glider jet engine fire"), ('K', 'some kind of caterpillar with a big belly')]
+Figure_3
+Response 1: Two oddly shaped guitars with twisted necks.
+Noun Phrase(s):Two
+Content:Elem, Nat
+Determinant:K
+Response 2: Again, two figures face to face, strangely constituted, like Picasso.
+Noun Phrase(s):two figures
+Content:Frag
+Determinant:F
+Response 3: Or two figures as one.Coordination Found!
+Noun Phrase(s):['no meaningful NP found', 'two figures as one']
+Content:[('A, Nat', 'no meaningful NP found'), ('A, Frag', 'two figures as one')]
+Determinant:[('CF, kan', 'no meaningful NP found'), ('kan', 'two figures as one')]
+Response 4: Two kinds of missiles or torpedoes.Coordination Found!
+Noun Phrase(s):['Two kinds of missiles', 'no meaningful NP found']
+Content:[('(Hd), A, Vet', 'Two kinds of missiles'), ('A, Nat', 'no meaningful NP found')]
+Determinant:[('F', 'Two kinds of missiles'), ('CF, kan', 'no meaningful NP found')]
+Response 5: Lungs or a butterfly.Coordination Found!Figure_1
+Response 1: Some kind of beetle with big wings, or it could be some kind of frog.Coordination Found!
+Noun Phrase(s):['Some kind of beetle with big wings', 'some kind of frog']
+Content:[('(H), Sc', 'Some kind of beetle with big wings'), ('H', 'some kind of frog')]
+Determinant:[('K', 'Some kind of beetle with big wings'), ('K', 'some kind of frog')]
+Response 2: Some kind of iking mask with four eyes.
+Noun Phrase(s):Some kind of iking mask with four eyes
+Content:Art, Hd
+Determinant:F
+Response 3: Some kind of silhouette.
+Noun Phrase(s):Some kind of silhouette
+Content:A, Alim
+Determinant:kan
+Response 4: A small character with an open mouth who looks surprised and his reflection there.Coordination Found!
+Noun Phrase(s):['A small character with an open mouth who looks surprised', 'his reflection there']
+Content:[('Ge, Pays', 'A small character with an open mouth who looks surprised'), ('(A), Vet', 'his reflection there')]
+Determinant:[('C, "CF", E', 'A small character with an open mouth who looks surprised'), ('F', 'his reflection there')]
+Figure_2
+Response 1: Two characters making contact or fighting because there's blood or a leg has been cut off.Coordination Found!
+Noun Phrase(s):['Two characters', 'blood', "Two characters making contact or fighting because there 's blood", 'no meaningful NP found']
+Content:[('Abs, Ad', 'Two characters'), ('Hd', 'blood'), ('Anat', "Two characters making contact or fighting because there 's blood"), ('A, Nat', 'no meaningful NP found')]
+Determinant:[('K', 'Two characters'), ('F', 'blood'), ('F', "Two characters making contact or fighting because there 's blood"), ('CF, kan', 'no meaningful NP found')]
+Response 2: Lungs.
+Noun Phrase(s):Lungs
+Content:Anat
+Determinant:FE
+Response 3: A rooster's head with a crest Fighter plane, glider, jet engine fire; again, it could be a larger one sending missiles Trunk men, perhaps irrational or some kind of caterpillar with a big belly.Coordination Found!
+Noun Phrase(s):["A rooster 's head with a crest Fighter plane glider jet engine fire", 'some kind of caterpillar with a big belly']
+Content:[('Hd, Radio', "A rooster 's head with a crest Fighter plane glider jet engine fire"), ('(H), Sc', 'some kind of caterpillar with a big belly')]
+Determinant:[('FE', "A rooster 's head with a crest Fighter plane glider jet engine fire"), ('K', 'some kind of caterpillar with a big belly')]

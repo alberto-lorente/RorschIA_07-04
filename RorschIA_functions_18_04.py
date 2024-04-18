@@ -1,17 +1,12 @@
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-import sklearn
-import scipy
+
 import re
 import json
 import spacy
-import os
-import requests
-import sys
+
 import deepl
-import collections
+
 import spacy
 import pickle
 from sentence_transformers import SentenceTransformer
@@ -382,13 +377,13 @@ def evaluate_one_vs_rest_transformer(path, text):
     
     return final_results
 
-def evaluation_list_dicts(list_dicts, model_contents=r"Models\Contents\sentence_transformer_contents_V23-18-04.sav", model_determinants=r"Models\Determinants\sentence_transformer_determinants_V23-18-04.sav"):
+def evaluation_list_dicts(list_dicts, model_contents=r"..\Models\Contents\sentence_transformer_contents_V23-18-04.sav", model_determinants=r"..\Models\Determinants\sentence_transformer_determinants_V23-18-04.sav"):
     """This function runs the evaluation with our first two models. 
     It takes as input the list of dictionary responses, prints the evaluation 
     and returns the content and determinant labels for each response in dictionary form.   
     """
     
-    f = open("evaluation_report.txt", "a")
+    # f = open("evaluation_report.txt", "a")
     
     evaluation = []
     i = 1
@@ -399,7 +394,7 @@ def evaluation_list_dicts(list_dicts, model_contents=r"Models\Contents\sentence_
         dict_evaluation_per_figure = {}
         
         print(figure_number, "\n") 
-        f.write(figure_number + "\n")
+        # f.write(figure_number + "\n")
         
         list_evaluation_figure = []
         
@@ -418,19 +413,20 @@ def evaluation_list_dicts(list_dicts, model_contents=r"Models\Contents\sentence_
             dict_eval["noun_phrase"] = noun_phrases
 
             print("Response {}: ".format(j), sentence)
-            f.write("Response {}: ".format(j) + sentence)
+            # f.write("Response {}: ".format(j) + sentence)
             
             if noun_phrases == "no meaningful NP found":
                 # contents = "None"
                 # determinants = "None"
+                dict_eval["coordination"] = coordination
                 dict_eval["content"] =  "None"
                 dict_eval["determinant"] =  "None"
-                dict_eval["coordination"] = coordination
+                
             
             elif coordination == True:
                 
                 print("Coordination Found!")
-                f.write("Coordination Found!")
+                # f.write("Coordination Found!")
                 
                 contents = []
                 determinants = []
@@ -456,6 +452,7 @@ def evaluation_list_dicts(list_dicts, model_contents=r"Models\Contents\sentence_
                 contents = evaluate_one_vs_rest_transformer(model_contents, noun_phrases)
                 determinants = evaluate_one_vs_rest_transformer(model_determinants, noun_phrases)
                 
+                dict_eval["coordination"] = coordination
                 dict_eval["content"] = contents
                 dict_eval["determinant"] = determinants
                 dict_eval["coordination"] = coordination
@@ -466,7 +463,7 @@ def evaluation_list_dicts(list_dicts, model_contents=r"Models\Contents\sentence_
             list_evaluation_figure.append(dict_eval)
             
             print("\nNoun Phrase(s):", noun_phrases, "\nContent:", contents , "\nDeterminant:", determinants, "\n")
-            f.write("\nNoun Phrase(s):" + str(noun_phrases) + "\nContent:" + str(contents) + "\nDeterminant:" + str(determinants) + "\n")
+            # f.write("\nNoun Phrase(s):" + str(noun_phrases) + "\nContent:" + str(contents) + "\nDeterminant:" + str(determinants) + "\n")
             
             j = 1 + j
             
@@ -476,8 +473,39 @@ def evaluation_list_dicts(list_dicts, model_contents=r"Models\Contents\sentence_
         
         i = i +1
         
-    f.close()
+    # f.close()
+    
     return evaluation
+
+def get_frame(list_dicts):
+
+    final_df = pd.DataFrame()
+
+    for figure_dict in list_dicts:
+        # print(figure_dict)
+        # print(type(figure_dict))
+        for figure in figure_dict:
+            response_dict = figure_dict[figure] # list of responses 
+            # print(response_dict)
+            for individual_response in response_dict:
+                # print(individual_response)
+                try:
+                    del individual_response["coordination"]
+                except:
+                    coord_status = "deleted"
+                individual_response["figure"] = figure
+                # if we dont have consistent scalar values, it will crash
+                try:
+                    response_data = pd.DataFrame(individual_response)
+                except:
+                    for k, v in individual_response.items():
+                        # print(k, v)
+                        individual_response[k] = [v]
+                    response_data = pd.DataFrame(individual_response)
+                final_df = pd.concat([final_df, response_data])
+    final_df = final_df.reset_index()
+    
+    return final_df
 
 def raw_text_response_eval(raw_text):
     
@@ -487,7 +515,11 @@ def raw_text_response_eval(raw_text):
 
     evaluation_dict = evaluation_list_dicts(list_dicts)
     
-    return evaluation_dict
+    results_dataframe = get_frame(evaluation_dict)
+    
+    results_dataframe.to_csv("RorschIA_results.csv")
+    
+    return results_dataframe
 
 def translated_dict_response_eval(dictionary): 
     """Use this one if you are working with the demo dictionaries already done to save deepl credits"""
@@ -498,4 +530,8 @@ def translated_dict_response_eval(dictionary):
 
     evaluation_dict = evaluation_list_dicts(list_dicts)
     
-    return evaluation_dict
+    results_dataframe = get_frame(evaluation_dict)
+    
+    results_dataframe.to_csv("RorschIA_results.csv")
+    
+    return results_dataframe
