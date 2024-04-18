@@ -1,9 +1,0 @@
-CLEAN UP THE NP FUNCTION
-
-Detect language to trigger translation
-
-MAKE A EXPERIMENTATION NOTEBOOK WITH PHRASE MINING, LLM STUFF for the next one
-
-
-
-CHANGE THE DS TO PANDAS?

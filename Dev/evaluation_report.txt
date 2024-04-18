@@ -1,0 +1,31 @@
+Figure_1
+Response 1: Some kind of beetle with big wings, or it could be some kind of frog.Coordination Found!Figure_1
+Response 1: Some kind of beetle with big wings, or it could be some kind of frog.Coordination Found!
+Noun Phrase(s):['Some kind of beetle with big wings', 'some kind of frog']
+Content:[('(H), Sc', 'Some kind of beetle with big wings'), ('H', 'some kind of frog')]
+Determinant:[('K', 'Some kind of beetle with big wings'), ('K', 'some kind of frog')]
+Response 2: Some kind of iking mask with four eyes.
+Noun Phrase(s):Some kind of iking mask with four eyes
+Content:Art, Hd
+Determinant:F
+Response 3: Some kind of silhouette.
+Noun Phrase(s):Some kind of silhouette
+Content:A, Alim
+Determinant:kan
+Response 4: A small character with an open mouth who looks surprised and his reflection there.Coordination Found!
+Noun Phrase(s):['A small character with an open mouth who looks surprised', 'his reflection there']
+Content:[('Ge, Pays', 'A small character with an open mouth who looks surprised'), ('(A), Vet', 'his reflection there')]
+Determinant:[('C, "CF", E', 'A small character with an open mouth who looks surprised'), ('F', 'his reflection there')]
+Figure_2
+Response 1: Two characters making contact or fighting because there's blood or a leg has been cut off.Coordination Found!
+Noun Phrase(s):['Two characters', 'blood', "Two characters making contact or fighting because there 's blood", 'no meaningful NP found']
+Content:[('Abs, Ad', 'Two characters'), ('Hd', 'blood'), ('Anat', "Two characters making contact or fighting because there 's blood"), ('A, Nat', 'no meaningful NP found')]
+Determinant:[('K', 'Two characters'), ('F', 'blood'), ('F', "Two characters making contact or fighting because there 's blood"), ('CF, kan', 'no meaningful NP found')]
+Response 2: Lungs.
+Noun Phrase(s):Lungs
+Content:Anat
+Determinant:FE
+Response 3: A rooster's head with a crest Fighter plane, glider, jet engine fire; again, it could be a larger one sending missiles Trunk men, perhaps irrational or some kind of caterpillar with a big belly.Coordination Found!
+Noun Phrase(s):["A rooster 's head with a crest Fighter plane glider jet engine fire", 'some kind of caterpillar with a big belly']
+Content:[('Hd, Radio', "A rooster 's head with a crest Fighter plane glider jet engine fire"), ('(H), Sc', 'some kind of caterpillar with a big belly')]
+Determinant:[('FE', "A rooster 's head with a crest Fighter plane glider jet engine fire"), ('K', 'some kind of caterpillar with a big belly')]
