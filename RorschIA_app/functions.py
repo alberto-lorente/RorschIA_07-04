@@ -96,7 +96,7 @@ def get_responses(raw_text):
 
     # add language detector is it english or french? - if 
 
-    with open("DEEPL_API_KEY.txt", "r") as f:
+    with open("RorschIA_app/DEEPL_API_KEY.txt", "r") as f:
       API_KEY = f.read()
     
     # print("API Key Found!")
