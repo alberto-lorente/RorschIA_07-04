@@ -2,7 +2,7 @@ spacy
 pandas
 deepl
 langdetect
-sklearn
+scikit-learn
 numpy
 
 sentence_transformers
