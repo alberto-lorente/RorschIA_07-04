@@ -58,6 +58,7 @@ if process_button == True:
             # st.write("French")
             with open("RorschIA_app/DEEPL_API_KEY.txt", "r") as f:
                 API_KEY = f.read()
+                API_KEY = API_KEY.strip("\n")
             translator = deepl.Translator(API_KEY)
             result = translator.translate_text(text_entered, target_lang="EN-US", preserve_formatting=True)
             response = result.text
