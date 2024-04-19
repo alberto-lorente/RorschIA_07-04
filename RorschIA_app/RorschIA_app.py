@@ -12,8 +12,8 @@ st.title("RorschIA")
 
 text_entered = st.text_input("Paste the text of your protocol :)")
 
-model_contents = pickle.load(open('sentence_transformer_contents_V23-18-04.sav','rb'))
-model_determinants = pickle.load(open('sentence_transformer_determinants_V23-18-04.sav','rb'))
+model_contents = pickle.load(open('RorschIA_app/sentence_transformer_contents_V23-18-04.sav','rb'))
+model_determinants = pickle.load(open('RorschIA_app/sentence_transformer_determinants_V23-18-04.sav','rb'))
 
 
 process_button = st.button("Process")
