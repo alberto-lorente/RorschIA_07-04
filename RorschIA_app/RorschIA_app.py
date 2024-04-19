@@ -48,31 +48,18 @@ if process_button == True:
         csv = evaluation.to_csv()
         
         st.download_button(label='Download CSV', data=csv, file_name='RorschIA_results.csv', mime='text/csv')
+        
     except:
         lang = detect(text_entered)
-        
         if lang == "fr":
             with open("DEEPL_API_KEY.txt", "r") as f:
                 API_KEY = f.read()
             translator = deepl.Translator(API_KEY)
             result = translator.translate_text(text_entered, target_lang="EN-US", preserve_formatting=True)
-            text = result.text
-        else:
-            text = text_entered
-        response_tuple = get_np(text)
-        if response_tuple[1] == True:
-            response = response_tuple[0]
-            for np in response:
-                content = evaluate_one_vs_rest_transformer("sentence_transformer_contents_V23-18-04.sav", response)
-                determinant = evaluate_one_vs_rest_transformer("sentence_transformer_determinants_V23-18-04.sav", response)
-                
-                st.write("*Sentence*: {} ".format(text_entered))
-                st.write("Response: {} ".format(response))
-                st.write("Content: {} ".format(content))
-                st.write("Determinant: {} ".format(determinant))
-        
-        else:
-            response = response_tuple[0]
+            response = result.text
+            
+            #GET NP WORKS WITH ENGLISH, no point of doing running get_np with french text
+            
             content = evaluate_one_vs_rest_transformer("sentence_transformer_contents_V23-18-04.sav", response)
             determinant = evaluate_one_vs_rest_transformer("sentence_transformer_determinants_V23-18-04.sav", response)
             
@@ -80,6 +67,30 @@ if process_button == True:
             st.write("Response: {} ".format(response))
             st.write("Content: {} ".format(content))
             st.write("Determinant: {} ".format(determinant))
+            
+        else: # language will be english
+            text = text_entered
+            response_tuple = get_np(text) # noun phrase segmentation
+            if response_tuple[1] == True: #    THERE IS COORDINATION!
+                response = response_tuple[0]
+                for np in response:
+                    content = evaluate_one_vs_rest_transformer("sentence_transformer_contents_V23-18-04.sav", response)
+                    determinant = evaluate_one_vs_rest_transformer("sentence_transformer_determinants_V23-18-04.sav", response)
+                    
+                    st.write("*Sentence*: {} ".format(text_entered))
+                    st.write("Response: {} ".format(response))
+                    st.write("Content: {} ".format(content))
+                    st.write("Determinant: {} ".format(determinant))
+            
+            else: # No coordination
+                response = response_tuple[0]
+                content = evaluate_one_vs_rest_transformer("sentence_transformer_contents_V23-18-04.sav", response)
+                determinant = evaluate_one_vs_rest_transformer("sentence_transformer_determinants_V23-18-04.sav", response)
+                
+                st.write("*Sentence*: {} ".format(text_entered))
+                st.write("Response: {} ".format(response))
+                st.write("Content: {} ".format(content))
+                st.write("Determinant: {} ".format(determinant))
 
 
 
