@@ -2,6 +2,8 @@ spacy
 pandas
 deepl
 langdetect
+sklearn
+numpy
 
 sentence_transformers
 
