@@ -12,7 +12,9 @@ st.title("RorschIA")
 
 text_entered = st.text_input("Paste the text of your protocol :)")
 
-# model = pickle.load(open('model_reg.pkl','rb'))
+model_contents = pickle.load(open('sentence_transformer_contents_V23-18-04.sav','rb'))
+model_determinants = pickle.load(open('sentence_transformer_determinants_V23-18-04.sav','rb'))
+
 
 process_button = st.button("Process")
 
@@ -61,8 +63,8 @@ if process_button == True:
             
             #GET NP WORKS WITH ENGLISH, no point of doing running get_np with french text
             
-            content = evaluate_one_vs_rest_transformer("sentence_transformer_contents_V23-18-04.sav", response)
-            determinant = evaluate_one_vs_rest_transformer("sentence_transformer_determinants_V23-18-04.sav", response)
+            content = evaluate_one_vs_rest_transformer(model_contents, response)
+            determinant = evaluate_one_vs_rest_transformer(model_determinants, response)
             
             st.write("*Sentence*: {} ".format(text_entered))
             st.write("Response: {} ".format(response))
