@@ -335,16 +335,16 @@ def preprocess_text_for_transformer(text):
     
     return X_transformers[0]
 
-def evaluate_one_vs_rest_transformer(model, text):
+def evaluate_one_vs_rest_transformer(path, text):
     
-    pipeline = model
+    pipeline = pickle.load(open(path,'rb'))
     
-    if "content" in str(model):
+    if "content" in path:
         # print("content found")
         possible_outcomes = ['(A)', '(Ad)', '(H)', '(Hd)', 'A', 'Abs', 'Ad', 'Alim', 'Anat', 'Art',
        'Bot', 'Elem', 'Frag', 'Ge', 'H', 'Hd', 'Id', 'Nat', 'Obj', 'Pays', 'Radio', 'Sc', 'Sex', 'Sg', 'Vet']
         
-    elif "determinant" in str(model):
+    elif "determinant" in path:
         # print("determinant found")
         possible_outcomes = ['C', 'C\'', 'C\'F', 'CF', 'E', 'EF', 'F', 'FC', 'FC\'', 'FE', 'K', 'kan']
 
@@ -382,7 +382,7 @@ def evaluate_one_vs_rest_transformer(model, text):
 
 # ONLY CHANGE IS IN THIS FX
 
-def evaluation_list_dicts(list_dicts, model_contents="sentence_transformer_contents_V23-18-04.sav", model_determinants="sentence_transformer_determinants_V23-18-04.sav"):
+def evaluation_list_dicts(list_dicts, model_contents='RorschIA_app/sentence_transformer_contents_V23-18-04.sav', model_determinants='RorschIA_app/sentence_transformer_determinants_V23-18-04.sav'):
     """This function runs the evaluation with our first two models. 
     It takes as input the list of dictionary responses, prints the evaluation 
     and returns the content and determinant labels for each response in dictionary form.   
