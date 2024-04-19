@@ -12,8 +12,8 @@ st.title("RorschIA")
 
 text_entered = st.text_input("Paste the text of your protocol :)")
 
-model_contents = pickle.load(open('RorschIA_app/sentence_transformer_contents_V23-18-04.sav','rb'))
-model_determinants = pickle.load(open('RorschIA_app/sentence_transformer_determinants_V23-18-04.sav','rb'))
+path_contents = 'RorschIA_app/sentence_transformer_contents_V23-18-04.sav'
+path_determinants = 'RorschIA_app/sentence_transformer_determinants_V23-18-04.sav'
 
 
 process_button = st.button("Process")
@@ -63,8 +63,8 @@ if process_button == True:
             
             #GET NP WORKS WITH ENGLISH, no point of doing running get_np with french text
             
-            content = evaluate_one_vs_rest_transformer(model_contents, response)
-            determinant = evaluate_one_vs_rest_transformer(model_determinants, response)
+            content = evaluate_one_vs_rest_transformer(path_contents, response)
+            determinant = evaluate_one_vs_rest_transformer(path_determinants, response)
             
             st.write("*Sentence*: {} ".format(text_entered))
             st.write("Response: {} ".format(response))
@@ -77,9 +77,8 @@ if process_button == True:
             if response_tuple[1] == True: #    THERE IS COORDINATION!
                 response = response_tuple[0]
                 for np in response:
-                    content = evaluate_one_vs_rest_transformer("sentence_transformer_contents_V23-18-04.sav", response)
-                    determinant = evaluate_one_vs_rest_transformer("sentence_transformer_determinants_V23-18-04.sav", response)
-                    
+                    content = evaluate_one_vs_rest_transformer(path_contents, response)
+                    determinant = evaluate_one_vs_rest_transformer(path_determinants, response)
                     st.write("*Sentence*: {} ".format(text_entered))
                     st.write("Response: {} ".format(response))
                     st.write("Content: {} ".format(content))
@@ -87,9 +86,8 @@ if process_button == True:
             
             else: # No coordination
                 response = response_tuple[0]
-                content = evaluate_one_vs_rest_transformer("sentence_transformer_contents_V23-18-04.sav", response)
-                determinant = evaluate_one_vs_rest_transformer("sentence_transformer_determinants_V23-18-04.sav", response)
-                
+                content = evaluate_one_vs_rest_transformer(path_contents, response)
+                determinant = evaluate_one_vs_rest_transformer(path_determinants, response)
                 st.write("*Sentence*: {} ".format(text_entered))
                 st.write("Response: {} ".format(response))
                 st.write("Content: {} ".format(content))
