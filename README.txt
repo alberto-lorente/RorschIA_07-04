@@ -1,6 +1,6 @@
 Prototype for RorschIA 07-04 for French.
 
-Newest update: basic streamlit local webpage in the RorschIA_app folder
+Newest update: basic streamlit local webpage in the RorschIA_app folder :)
 
 The current functionalities are the following: the script parses the text, it organizes it and translates it. Then it splits the sentences based on punctuation and sentence coordination of noun phrases. Then, it runs each noun phrase through two RF-tfidf models, one for contents and another one for determinants. Finally, it prints a little report in English for each figure and response. For an example of the output you can quickly look at the Prototype notebook.
 
