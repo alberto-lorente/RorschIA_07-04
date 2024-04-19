@@ -55,8 +55,8 @@ if process_button == True:
     except:
         lang = detect(text_entered)
         if lang == "fr":
-            st.write("French")
-            with open("DEEPL_API_KEY.txt", "r") as f:
+            # st.write("French")
+            with open("RorschIA_app/DEEPL_API_KEY.txt", "r") as f:
                 API_KEY = f.read()
             translator = deepl.Translator(API_KEY)
             result = translator.translate_text(text_entered, target_lang="EN-US", preserve_formatting=True)
