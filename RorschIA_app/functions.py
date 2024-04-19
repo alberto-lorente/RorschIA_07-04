@@ -13,6 +13,7 @@ import spacy
 import pickle
 from sentence_transformers import SentenceTransformer
 
+
 nlp = spacy.load('en_core_web_sm')
 
 def get_responses(raw_text):
