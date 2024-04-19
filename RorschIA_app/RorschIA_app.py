@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import deepl
 from langdetect import detect
+import pickle
 
 from functions import raw_text_response_eval
 from functions import get_np
@@ -11,7 +12,7 @@ st.title("RorschIA")
 
 text_entered = st.text_input("Paste the text of your protocol :)")
 
-
+# model = pickle.load(open('model_reg.pkl','rb'))
 
 process_button = st.button("Process")
 
