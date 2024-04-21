@@ -91,9 +91,9 @@ if process_button == True:
             content = evaluate_one_vs_rest_transformer(path_contents, response)
             determinant = evaluate_one_vs_rest_transformer(path_determinants, response)
             
-            formated_response = str(response).translate(format_dict)
+            # formated_response = str(response).translate(format_dict)
             
-            st.write("Response: {} ".format(formated_response))
+            st.write("Response: {} ".format(response))
             st.write("Content: {} ".format(content))
             st.write("Determinant: {} ".format(determinant))
 
