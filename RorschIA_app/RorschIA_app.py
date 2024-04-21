@@ -83,8 +83,8 @@ if process_button == True:
                 
                 
                 
-                st.write("Content for **{}**: {} ".format(np, content))
-                st.write("Determinant for **{}**: {} ".format(np, determinant))
+                st.write("Content for '**{}**': {} ".format(np, content))
+                st.write("Determinant for '**{}**': {} ".format(np, determinant))
         
         else: # No coordination
             response = response_tuple[0]
