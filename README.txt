@@ -6,13 +6,13 @@ The current functionalities are the following: the script parses the text, it or
 
 * The development python notebook is included in case you are interested in having a deeper look under the hood. 
 
-How to use the prototype:
+How to use the prototype app:
 
-- For convenience, copy-paste the protocol or sentence you want to evaluate into the app textbox. 
+- Copy-paste the protocol or sentence you want to evaluate into the app textbox. 
 
 - Press the Process button.
 
-- You will se a little report on the app. If you passed an entire protocol, you will be able to download it at the very end of the page.
+- You will see a little report on the app. If you passed an entire protocol, you will be able to download it at the very end of the page.
 
 Some considerations:
 
