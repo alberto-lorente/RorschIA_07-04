@@ -67,13 +67,17 @@ if process_button == True:
             response = text_entered
             
         response_tuple = get_np(response) # noun phrase segmentation
+        
+        st.write("*Sentence*: {} ".format(text_entered))
+        
         if response_tuple[1] == True: #    THERE IS COORDINATION!
             response = response_tuple[0]
             for np in response:
                 content = evaluate_one_vs_rest_transformer(path_contents, response)
                 determinant = evaluate_one_vs_rest_transformer(path_determinants, response)
-                st.write("*Sentence*: {} ".format(text_entered))
-                st.write("Response: {} ".format(response))
+                
+                formated_response = str(response).replace({"[": "" , "]": "", "'": ""})
+                st.write("Response: {} ".format(formated_response))
                 st.write("Content: {} ".format(content))
                 st.write("Determinant: {} ".format(determinant))
         
@@ -81,8 +85,9 @@ if process_button == True:
             response = response_tuple[0]
             content = evaluate_one_vs_rest_transformer(path_contents, response)
             determinant = evaluate_one_vs_rest_transformer(path_determinants, response)
-            st.write("*Sentence*: {} ".format(text_entered))
-            st.write("Response: {} ".format(response))
+            
+            formated_response = str(response).replace({"[": "" , "]": "", "'": ""})
+            st.write("Response: {} ".format(formated_response))
             st.write("Content: {} ".format(content))
             st.write("Determinant: {} ".format(determinant))
 
