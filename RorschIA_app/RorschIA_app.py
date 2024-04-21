@@ -73,16 +73,18 @@ if process_button == True:
         
         if response_tuple[1] == True: #    THERE IS COORDINATION!
             response = response_tuple[0]
+            
+            formated_response = str(response).translate(format_dict)
+            st.write("Response: {} ".format(formated_response))
+            
             for np in response:
                 content = evaluate_one_vs_rest_transformer(path_contents, response)
                 determinant = evaluate_one_vs_rest_transformer(path_determinants, response)
                 
                 
-                formated_response = str(response).translate(format_dict)
                 
-                st.write("Response: {} ".format(formated_response))
-                st.write("Content: {} ".format(content))
-                st.write("Determinant: {} ".format(determinant))
+                st.write("Content {}: {} ".format(np, content))
+                st.write("Determinant {}: {} ".format(np, determinant))
         
         else: # No coordination
             response = response_tuple[0]
