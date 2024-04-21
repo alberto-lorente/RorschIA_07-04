@@ -63,37 +63,28 @@ if process_button == True:
             result = translator.translate_text(text_entered, target_lang="EN-US", preserve_formatting=True)
             response = result.text
             
-            #GET NP WORKS WITH ENGLISH, no point of doing running get_np with french text
-            
-            content = evaluate_one_vs_rest_transformer(path_contents, response)
-            determinant = evaluate_one_vs_rest_transformer(path_determinants, response)
-            
-            st.write("*Sentence*: {} ".format(text_entered))
-            st.write("Response: {} ".format(response))
-            st.write("Content: {} ".format(content))
-            st.write("Determinant: {} ".format(determinant))
-            
         else: # language will be english
-            text = text_entered
-            response_tuple = get_np(text) # noun phrase segmentation
-            if response_tuple[1] == True: #    THERE IS COORDINATION!
-                response = response_tuple[0]
-                for np in response:
-                    content = evaluate_one_vs_rest_transformer(path_contents, response)
-                    determinant = evaluate_one_vs_rest_transformer(path_determinants, response)
-                    st.write("*Sentence*: {} ".format(text_entered))
-                    st.write("Response: {} ".format(response))
-                    st.write("Content: {} ".format(content))
-                    st.write("Determinant: {} ".format(determinant))
+            response = text_entered
             
-            else: # No coordination
-                response = response_tuple[0]
+        response_tuple = get_np(response) # noun phrase segmentation
+        if response_tuple[1] == True: #    THERE IS COORDINATION!
+            response = response_tuple[0]
+            for np in response:
                 content = evaluate_one_vs_rest_transformer(path_contents, response)
                 determinant = evaluate_one_vs_rest_transformer(path_determinants, response)
                 st.write("*Sentence*: {} ".format(text_entered))
                 st.write("Response: {} ".format(response))
                 st.write("Content: {} ".format(content))
                 st.write("Determinant: {} ".format(determinant))
+        
+        else: # No coordination
+            response = response_tuple[0]
+            content = evaluate_one_vs_rest_transformer(path_contents, response)
+            determinant = evaluate_one_vs_rest_transformer(path_determinants, response)
+            st.write("*Sentence*: {} ".format(text_entered))
+            st.write("Response: {} ".format(response))
+            st.write("Content: {} ".format(content))
+            st.write("Determinant: {} ".format(determinant))
 
 
 
