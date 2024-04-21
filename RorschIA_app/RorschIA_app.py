@@ -10,7 +10,7 @@ from functions import evaluate_one_vs_rest_transformer
 
 st.title("RorschIA")
 
-text_entered = st.text_input("Paste the text of your protocol :)")
+text_entered = st.text_input("Paste the text of your protocol or sentence :)")
 
 path_contents = 'RorschIA_app/sentence_transformer_contents_V23-18-04.sav'
 path_determinants = 'RorschIA_app/sentence_transformer_determinants_V23-18-04.sav'
@@ -68,12 +68,12 @@ if process_button == True:
             
         response_tuple = get_np(response) # noun phrase segmentation
         
-        st.write("*Sentence*: {} ".format(text_entered))
-        format_dict = str.maketrans({"[": "" , "]": "", "'": ""})
+        st.write("*SENTENCE*: {} ".format(text_entered))
         
         if response_tuple[1] == True: #    THERE IS COORDINATION!
             response = response_tuple[0]
             
+            format_dict = str.maketrans({"[": "" , "]": "", "'": ""})
             formated_response = str(response).translate(format_dict)
             st.write("Response: {} ".format(formated_response))
             
@@ -90,8 +90,6 @@ if process_button == True:
             response = response_tuple[0]
             content = evaluate_one_vs_rest_transformer(path_contents, response)
             determinant = evaluate_one_vs_rest_transformer(path_determinants, response)
-            
-            # formated_response = str(response).translate(format_dict)
             
             st.write("Response: {} ".format(response))
             st.write("Content: {} ".format(content))
