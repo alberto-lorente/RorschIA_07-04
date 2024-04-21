@@ -8,14 +8,11 @@ from functions import raw_text_response_eval
 from functions import get_np
 from functions import evaluate_one_vs_rest_transformer
 
-st.title("RorschIA")
-
-text_entered = st.text_input("Paste the text of your protocol or sentence :)")
-
 path_contents = 'RorschIA_app/sentence_transformer_contents_V23-18-04.sav'
 path_determinants = 'RorschIA_app/sentence_transformer_determinants_V23-18-04.sav'
 
-
+st.title("RorschIA")
+text_entered = st.text_input("Paste the text of your protocol or sentence :)")
 process_button = st.button("Process")
 
 if process_button == True:
