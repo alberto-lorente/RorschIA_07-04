@@ -1,0 +1,53 @@
+Pl,Numéros réponse,Position,Réponse (French),Answer (English),Enquête (French),Inquiry (English),Localisation,Déterminant,Contenu,4e colonne
+I,1,,Un gros derrière de fourmi.,A big ant's behind.,"Le centre, la forme noire (Dd11)","The center, the black shape (Qd11)",Dd,F-,Ad,
+,2,,"Un papillon avec une fourmi, une grosse tête, des petites mains avec un radar comme les abeilles. Un mélange de fourmi, papillon et abeille.","A butterfly with an ant, a big head, little hands with a radar like bees. A mixture of ant, butterfly and bee.","Le tout, les mains (D1), la tête (D4), le radar je voulais dire une aiguille (Dd31).","Everything, the hands (D1), the head (D4), the radar I meant a needle (Dd31).",Gc,F-,(A)/Hd,
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+II,3,,"Un mort aux yeux rouges, la bouche ouverte, il a fumé un joint.","A dead man with red eyes, his mouth open, he smoked a joint.","C'est juste la tête, là le nez (Ddbl29), le menton est éclaté (D3) et il ouvre la bouche pour cracher la fumée (Dbl5)","It's just the head, there the nose (Qdbl29), the chin is burst (D3) and he opens his mouth to spit smoke (Qbl5)",Gbl,F-C,(Hd),Dévit --> kp répr
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+III,4,v,"Un animal mort, je sais pas... peut-être une grenouille croisée avec un cul de mouche.","A dead animal, I don't know... maybe a frog crossed with a fly's ass.",Le tout (sans le rouge).,All (without the red).,Gc,F-,A,Dévit
+,5,v,"Un scarabée avec des pinces pour se défendre avec un corps de grenouille, il est éclaté, car il manque la partie inférieure du corps et il a des yeux de mouche.","A beetle with claws to defend itself with the body of a frog, it is broken, because the lower part of the body is missing and it has the eyes of a fly.","Le tout, les pinces (Dd20), éclaté car il y a du sang (rouge) et les yeux de mouche dans le plus clair (D4)","The whole thing, the pincers (Dd20), burst because there is blood (red) and the fly's eyes in the lightest (D4)",Gblc,FC-,(Ad)/Sg,C Défect
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+IV,6,v,"Une ombre... Non, ce n'est pas une ombre.","A shadow... No, it's not a shadow.","La forme, la couleur.","The shape, the color.",G,,Fgt,
+,7,,"C'est un pilier où les gens sont condamnés à mort, une entrée, deux gars qui gardent des sas et qui exécutent les gens.","It's a pillar where people are sentenced to death, an entrance, two guys guarding airlocks and executing people.","Les gens grimpent par les marches (D1), les sas (Dd22), c'est une salle de torture.","People climb the steps (D1), the airlocks (Dd22), it's a torture room.",G,,H/scène,-> K- mais personnages non perçus
+,8,,"Les pieds de la machine, des poutres en forme de pieds.","The feet of the machine, beams in the shape of feet.",(D15).,(D15).,D,,Obj,
+,9,,"Une chatte, c'est mon petit côté obsédé.",A cat is my little obsessed side.,"C'est mon côté obsédé, la forme et l'ombre (Dd30) (et deux autres localisations arbitraires milieu du (D5) additionnel).","It's my obsessed side, the shape and the shadow (Dd30) (and two other arbitrary locations in the middle of the additional (D5).",Dd,,Sex,
+,10,,La mort.,The death.,Je ne sais pas.,I don't know.,G,,Abstr,
+V,11,,Des ailes de papillon.,Butterfly wings.,La forme (DR),The form (DR),Di,F+,Ad,
+,12,,Un papillon.,A butterfly.,La forme.,The form.,G,F+,A,Ban
+,13,,"Un papillon avec des ailes de chauve-souris, avec des gueules pour calculer l'altitude.","A butterfly with bat wings, with mouths to calculate altitude.","Le tout, les gueules (D18).","The whole thing, the mouths (D18).",Gc,F-,(A),
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+VI,14,,Des tripes... je ne sais pas,Guts...I don't know,J'ai dit ça ? Je sais plus.,I said that ? I do not know anymore.,G,F-,Anat,
+,15,v,"Des trucs indiens, un totem avec des plumes.","Indian stuff, a totem with feathers.","La forme centrale et les plumes sur le côté (D6), les plumes sont travaillées.","The central shape and the feathers on the side (D6), the feathers are worked.",D,F+E,Obj,
+,16,v,"Une fourrure d'animal, mais ils ont retiré la tête. Il reste combien de planches ?","An animal fur, but they removed the head. How many boards are left?","La forme, il manque la tête, la peau est aplatie.","The shape, the head is missing, the skin is flattened.",G,EF,(Ad),Ban
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+VII,17,v,"Des têtes d'éléphant, ça doit appartenir à un chasseur.",Elephant heads must belong to a hunter.,(D16),(D16),D,F+,Ad,
+,18,v,"Il y a des poutres pour tenir les têtes d'éléphants, c'est un chasseur qui les collectionne.","There are beams to hold elephant heads, a hunter collects them.","On voit que c'est à un chasseur, car il y a des trous, là où il a tiré.","We see that it belongs to a hunter, because there are holes where he shot.",D/bl,F-,Obj,-> kob stat Dévit
+,19,v,Un animal volant mort accroché au-dessus.,A dead flying animal hanging above.,(D4),(D4),D,F-,Ad,-> kan répr Dévit
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+VIII,20,,C'est plein de couleurs.,It's full of colors.,,#VALUE!,,,,Rem C
+,21,,"Deux tigres, deux lions, deux fauves quoi.","Two tigers, two lions, two wild animals.",Les deux sur le côté (D1).,Both on the side (D1).,D,F+,A,Ban
+,22,,Des tripes.,Guts.,La forme et la couleur (D4+D5),Shape and color (D4+D5),D,CF,Anat,
+,23,,"Ils se baladent sur un truc de sang, ils vont à l'apéritif.","They're walking around on something bloody, they're going to an aperitif.",Ce sont des charognards alors ils vont manger les restes.,They are scavengers so they will eat the leftovers.,D,kan +- C,A/Sg,CF + mvt
+,,,,#VALUE!,,#VALUE!,,,,
+IX,24,,"C'est très coloré, c'est plus coloré vers la fin.","It's very colorful, it's more colorful towards the end.",,#VALUE!,,,,Rem C
+,25,,Les boyaux normaux.,Normal hoses.,Ils ont la forme de boyaux et leur couleur (D6).,They have the shape of guts and their color (D6).,D,CF,Anat,
+,26,,Les boyaux fumés parce qu'ils sont verts.,The casings are smoked because they are green.,"ça devrait être clair, il a trop fumé (D11).","it should be clear, he smoked too much (D11).",D,CF,Anat,
+,27,,Les branchites.,Branchites.,La forme (D3).,The shape (D3).,D,F-,Anat,
+,28,,"C'est le corps d'un alien, car il a 4 poumons.","It's the body of an alien, because it has 4 lungs.","Je ne connais pas son histoire, car je ne vois que l'intérieur et ça veut dire qu'il est mort.","I don't know his story, because I only see the inside and that means he's dead.",G,F-,Anat,
+X,29,v,Tête d'animal.,Animal head.,C'est un crâne (D11).,It's a skull (D11).,D,F-,Ad/Anat,Dévit
+,30,v,"Le truc bleu, c'est de la flotte.",The blue thing is fleet.,C'est bleu alors c'est de l'eau (D1).,It's blue so it's water (D1).,D,C,Elem,
+,31,v,"Le rose, c'est le sang.",Pink is blood.,"La couleur, ça ressemble à du rouge (D42).",The color looks like red (D42).,D,C,Sg,
+,32,v,"Il y a eu une bagarre, mais le corps n'est plus là, le sang est encore frais.","There was a fight, but the body is no longer there, the blood is still fresh.","Le tout, le sang (D44)","The whole thing, the blood (D44)",D,C,Sg,
+,33,v,Des petites bêtes qui boivent le sang.,Little beasts that drink blood.,Ils ont une queue jaune (Dd51),They have a yellow tail (Dd51),Dd,kan +- C,A/Sg,
+,34,v,Entre les seins il y a quelqu'un qui a marqué son territoire.,Between the breasts there is someone who has marked their territory.,On a fait pipi (D2).,We peed (D2).,D,F- C,Sex/Anat,CF + mvt
+,35,v,"Le vert, c'est de l'herbe.",Green is grass.,La couleur (D12),Color (D12),D,C,Bot,

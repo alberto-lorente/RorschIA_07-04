@@ -1,0 +1,52 @@
+Pl,Numéros réponse,Position,Réponse (French),Answer (English),Enquête (French),Inquiry (English),,,,
+I,1,v,"Une fleur, je sais pas je ne vois pas.","A flower, I don't know, I don't see.",Le tout. La forme.,The whole thing. The form.,G,F-,bot,Autocrit
+,2,^,Des griffes,Claws,Petites saillies médianes supérieures (D1). La forme,Small upper median projections (D1). The form,D,F+,Ad,Ref phal
+,3,^,Des ailes,Wings,Grandes parties latérales (D13). La forme,Large side parts (D13). The form,Di,F+,Ad,Ref phal
+,4,^,Un papillon,A butterfly,Le tout. La forme.,The whole thing. The form.,G,F+,A,Ban
+,,,,#VALUE!,,#VALUE!,,,,
+II,5,^,Je vois rien du tout. Une bête,I don't see anything at all. A beast,Le tout. La forme.,The whole thing. The form.,G,F+/-,A,Impot Eq Choc
+,6,^,Une catastrophe,A disaster,Le tout. Les couleurs noire et rouge.,The whole thing. Black and red colors.,G,ClobCC',Abs,
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+III,7,^,On peut imaginer deux personnages mais le reste je sais pas…c’est pas moi qui suis forte pour ces trucs-là,We can imagine two characters but the rest I don’t know…it’s not me who’s good at that stuff,Le noir en totalité. La forme. ,All black. The form.,G,F+,(H),Ban Eq Choc Autocrit
+,8,^,"Le rouge ça ressemblerait à des cœurs, avec du sang","Red would look like hearts, with blood",Les détails rouges sup. latéraux (D19) La forme et la couleur rouge,The upper red details. lateral (D19) Shape and color red,D,FCclob-,Anat/sg,Choc R
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+IV,9,^,ça ressemble un peu à une bestiole à cause du pelage mais quoi ? Elle a une drôle de forme non identifiée,"It looks a bit like a critter because of the fur but what? It has a strange, unidentified shape.",Le tout. La forme,The whole thing. The form,G,FE+/-,A,Eq Choc Rem int
+,10,^,"Une grosse bête assise, on voit pas les expressions du visage, c’est tout ce que je peux dire","A big beast sitting, you can't see the facial expressions, that's all I can say",Le tout. La forme,The whole thing. The form,G,kanclob+/-,A,CDR repet
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+V,11,^,"Ca ressemble à un papillon. Un papillon de nuit, dans le vide","It looks like a butterfly. A moth, in the void",Le tout + le blanc. La forme et les couleurs noire et blanche,All + white. The shape and black and white colors,G/bl,FC'+,A/Abs,Ban Fu
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+VI,12,v,"Qu’est-ce que ça peut être ? Je vois rien. Ca peut être une bête des mers, avec la grande bouche ouverte qui gobe tout. Je ne sais pas le nom","What could it be ? I do not see anything. It could be a sea beast, with a big open mouth that swallows everything. I don't know the name",Partie principale inférieure (D1). La forme,Lower main part (D1). The form,D,kan+/-,A/Hd,Rem int Impot Eq Choc ref orale CDR
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+VII,,,Non je vois rien du tout,No I don't see anything at all,,#VALUE!,,,,Refus
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+VIII,13,v,Une fleur,A flower,Orange et rose du centre bas. La forme et la couleur,Orange and pink from the bottom center. Shape and color,D,FC+,Bot,repet
+,14,^,Des animaux dans le rose mais le reste je vois pas. Je suis pas fortiche,Animals in pink but the rest I don't see. I'm not strong,Les deux parties roses latérales ensemble. La forme,The two side pink parts together. The form,D,F+/-,A,Ban Autocrit
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+IX,15,v,Non je vois rien du tout non plus. Ou de la fumée,"No, I don't see anything at all either. Or smoke",Les deux parties vertes ensemble (D11),Both green parts together (D11),D,E,Frag,Impot Eq Choc ->kob
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+X,16,^,"Une fleur à plusieurs couleurs comme ça j’en ai jamais vu, mais c’est beau, c’est pas mal","A multi-colored flower like that I've never seen, but it's beautiful, it's not bad",Le tout + le blanc. La forme et les couleurs,All + white. Shape and colors,G/bl,FCC'+,Bot,RemC+ Persev ->ref pers
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
+,,,,#VALUE!,,#VALUE!,,,,
