@@ -1,0 +1,748 @@
+FQText,C,C',C'F,CF,E,EF,F,FC,FC',FE,K,kan
+Animal (Winged but unspecified),0,0,0,0,0,0,0,0,0,0,1,0
+Tree,0,0,0,0,0,0,0,0,0,1,1,0
+Lobster and Seaweed,1,0,0,0,0,0,0,0,0,1,0,0
+Eyes (Abstract),0,0,0,0,0,0,1,0,0,0,0,0
+"Humans or Human-Like Figures (As D1 in a scene with other objects each of which would be coded as o if reported separately, such as in ceremonies, parties, playgrounds, etc.)",0,0,0,0,0,0,0,0,0,0,1,0
+Anatomy,0,0,0,0,0,0,1,0,0,0,0,0
+Buttocks,0,0,0,0,0,0,0,0,0,0,1,0
+"Human (Child, Indian, female, or unspecified. May be whole human or head and upper body)",0,0,0,0,0,0,0,0,0,0,1,0
+Vagina,0,0,0,0,0,0,0,0,0,0,1,0
+Head (Animal),0,0,0,0,0,0,1,0,0,0,0,0
+Testicles,0,0,0,0,0,0,1,0,0,0,0,0
+Human-Like Figure,0,0,0,0,0,0,1,0,0,0,0,0
+Monster,0,0,0,0,0,0,1,0,0,0,0,0
+Bears,0,0,0,0,0,0,0,1,0,0,0,1
+Face,0,0,0,0,0,0,0,0,0,0,1,0
+Human (Winged or caped),0,0,0,0,0,0,1,0,0,0,0,0
+Humans (Two),0,0,0,0,0,0,0,0,0,0,1,0
+Humans or Human-Like Figures,0,0,0,0,0,0,0,1,0,0,1,0
+Spider,0,0,0,0,0,0,1,0,0,0,0,0
+Head (Monster),0,0,0,0,0,0,1,0,0,0,0,0
+Humans (Two with D7 as separate object),0,0,0,0,0,0,0,0,0,0,1,0
+"Head (Human, as child, Indian, female, or unspecified)",0,0,0,0,0,0,1,0,0,0,0,0
+Animal,0,0,0,0,0,0,0,1,0,0,0,0
+Design (Abstract),0,0,0,1,0,0,0,0,0,0,0,1
+Butterfly,0,0,0,0,0,0,1,0,0,0,0,0
+"Animals (Two, unspecified)",1,0,0,0,0,0,0,0,0,0,0,1
+"Animal (Small, with D5 as ear, and Dd21 as tail, such as cat, dog, monkey, rabbit)",0,0,0,0,0,0,0,0,0,0,0,1
+Fairy,0,0,0,0,0,0,0,0,0,0,1,0
+Human,1,0,0,0,0,0,0,0,0,0,1,0
+Body,0,0,0,0,0,0,0,0,0,0,1,0
+Hands (Praying),0,0,0,0,0,0,0,0,0,0,1,0
+Skeletal (Unspecified),0,0,0,0,0,0,0,0,0,1,0,0
+Girls,0,0,0,0,0,0,0,0,0,0,1,0
+"Human (As D1 with D3 as other object, such as hill, sand, etc.)",0,0,0,0,0,0,0,0,0,0,1,0
+Fist (With finger pointing upward),0,0,0,0,0,0,0,0,0,0,1,0
+"Humans (Two, leaning against center object)",0,0,0,0,0,0,0,0,0,0,1,0
+Head (Human-like),0,0,0,0,0,0,0,0,0,0,1,0
+Dragon (Flying),0,0,0,0,0,0,0,0,0,1,0,0
+Bat,0,0,0,0,0,0,1,0,0,0,0,1
+Skin (Animal),0,0,0,0,0,0,1,0,0,0,0,1
+"Mask (Note: This category includes a wide variety of animal, Halloween, monster, party, voodoo, etc. masks)",0,0,0,0,0,0,1,0,0,0,1,0
+Skull (Animal),0,0,0,0,0,0,1,0,0,0,0,1
+"Animals (Two, meeting criterion for o as D1)",0,0,0,0,0,0,0,0,0,0,1,0
+Head,0,0,0,0,0,0,1,0,0,0,0,0
+Canyon (As D8 with other areas as foliage and/or landscape),0,0,0,1,0,0,1,0,0,0,1,0
+Ant,0,0,1,0,0,0,1,0,0,0,1,0
+Lungs,0,0,0,0,0,0,0,0,0,1,0,0
+Anatomy (Specific),0,0,0,0,0,0,1,0,0,0,0,0
+Explosion,0,0,0,0,0,0,0,0,0,0,1,0
+Face (Human or animal),0,0,0,0,0,0,0,0,0,0,1,0
+Heart,0,0,0,1,0,0,0,0,0,1,1,0
+"Human (Note: This class of response may involve W as the human figure or D7 as the human figure with D1 as a second object, such as bike, seat, stump, etc. The card must be upright.)",0,0,0,0,0,0,1,0,0,0,1,0
+Animals,0,0,0,0,0,0,0,0,0,0,0,1
+Elephant,0,0,0,0,0,0,0,0,0,1,1,1
+Arm,0,0,0,0,0,0,0,0,0,0,1,0
+Pelvis,0,0,0,0,0,0,1,0,0,0,0,0
+Human (In costume),0,0,0,0,0,0,1,0,0,0,0,0
+"Children (With D4 as separate object such as cushions, see-saw, etc.)",0,0,0,0,0,0,1,0,0,0,0,0
+Hand,0,0,0,0,0,0,0,0,0,0,1,0
+Boots (On pole),1,0,0,0,0,0,0,0,0,0,1,0
+Animals (Unspecified),0,0,0,0,0,0,0,1,0,0,0,1
+Giant,0,0,0,0,0,0,1,0,0,0,0,0
+Penis,0,0,0,0,0,0,1,0,0,0,0,0
+Angel,0,0,0,0,0,1,0,0,0,1,1,0
+Humans (With D5 as arms),0,0,0,0,0,0,0,0,0,1,1,0
+Bone (Skeletal),0,0,0,0,0,0,0,0,1,1,0,0
+Map,0,0,0,0,0,0,0,1,0,1,1,0
+Bearskin,0,0,0,0,1,0,0,0,0,0,1,0
+"Animals (Two, real, with each as one half of the blot)",0,0,0,0,0,0,0,0,0,0,0,1
+Face (Clown),0,0,0,0,0,1,0,1,0,0,1,0
+Bird (Beak D6),1,0,0,0,0,0,0,0,0,0,0,1
+Landscape (Reflected),0,0,0,1,0,1,0,0,0,0,1,0
+Vegetation,0,0,0,1,0,0,0,0,0,0,0,0
+Head (Human),0,0,0,0,0,0,0,1,0,0,1,0
+"Mask (Note: This category includes a variety of animal, cartoon, Halloween, party, etc. masks)",0,0,0,0,0,0,0,1,0,0,0,0
+X-ray (Specific),0,0,0,0,0,0,1,0,0,0,0,0
+Insect (Winged),0,0,0,0,0,0,1,0,0,0,0,0
+Landscape,1,0,0,0,0,0,0,0,0,0,0,1
+Humans (Two facing midline),0,0,0,0,0,0,1,0,0,0,0,0
+Skeleton,0,0,0,0,0,0,0,1,0,0,0,0
+"Animal (Usually lying or jumping and includes a wide variety, such as bear, buffalo, cat, dog, lion, rabbit, etc.)",0,0,0,0,0,0,0,0,0,0,0,1
+Devil (Sometimes winged),0,0,0,0,0,0,1,0,0,0,0,0
+Elephant (Cartoon),0,0,0,0,0,0,1,0,0,0,0,0
+Human (Whole),0,0,0,0,0,0,0,0,0,0,1,0
+Human-Like Figure (Specified with giant arms or wings),0,0,0,0,0,0,1,0,0,0,0,0
+Goose,0,0,0,0,0,0,0,0,0,0,1,0
+Animals (As D1 with other areas identified as object(s) that are consistent with contours),0,0,0,0,0,1,0,0,0,0,0,1
+Face (Monster),0,0,0,0,0,0,1,0,0,0,0,0
+Humans,0,0,0,0,0,0,0,0,0,0,1,0
+"Heads (Human, profile, back to back)",0,0,0,0,0,1,0,0,0,0,0,0
+Frog,0,0,0,0,0,0,0,0,0,0,0,1
+Bear,0,0,0,0,0,0,1,0,0,0,1,0
+Face (Fox),0,0,0,0,0,0,1,0,0,0,0,0
+Brainstem,0,0,1,0,0,0,0,0,0,1,0,0
+Dancer (As D4 in costume or cape),0,0,0,0,0,0,0,0,0,0,1,0
+Map (Unspecified),0,0,0,0,0,0,0,1,0,0,0,0
+"Science Fiction Scene (Usually includes aliens, creatures, monsters, but may involve space battle such as from Star Wars)",0,0,0,0,0,0,1,0,0,0,0,0
+Cave,1,0,0,0,0,0,0,0,0,1,0,0
+Animal (Winged),0,0,0,0,0,0,0,0,0,1,0,1
+Moth,0,0,0,0,0,0,1,0,0,0,0,0
+Headdress (Ceremonial),0,0,0,0,0,0,1,0,0,0,0,0
+Chickens,0,0,0,0,0,0,0,1,0,0,0,1
+Leaf,0,0,0,0,0,0,0,0,1,0,0,0
+Bug (Winged),0,0,0,0,0,0,0,0,0,1,0,0
+Animal (Long tailed),0,0,0,0,0,0,0,0,0,0,0,1
+"Dog (Sitting, usually facing away)",0,0,0,0,0,0,1,0,0,0,0,0
+Jackhammer,0,0,0,0,0,0,0,0,0,0,1,0
+Kidney,0,0,0,1,0,0,0,0,0,0,0,0
+"Head (Animal, as cat, cartoon, monkey, or rabbit) Note: If animal head reported is not cat, cartoon, monkey, or rabbit, it should be coded as u if the contours are used appropriately as for some dogs&rsquo; heads, or - if that is not the case.",0,0,0,0,0,0,0,0,1,0,0,1
+Human(s),0,0,0,0,0,0,0,1,0,0,1,0
+Arm (With fist at Dd23),0,0,0,0,0,0,1,0,0,0,0,0
+Statue,0,0,0,0,0,0,1,0,0,0,1,0
+"Boat (With sails, front view)",0,0,0,0,0,0,0,0,0,1,0,0
+Human (Headless),0,0,0,0,0,0,1,0,0,0,0,0
+Stick,0,0,0,0,0,0,1,0,0,0,0,0
+Mask,0,0,0,0,0,0,1,0,0,0,0,0
+Island(s),0,0,0,0,0,0,1,0,0,0,0,0
+Face (Cat),0,0,0,0,0,0,1,0,0,0,0,0
+Blood,0,0,0,1,0,0,0,0,0,0,0,0
+Dolls (Two),0,0,0,0,0,0,0,0,0,0,1,0
+Eagle,0,0,0,0,0,0,0,0,0,1,0,0
+Animal-Like Creature,0,0,0,0,0,0,0,1,0,0,1,0
+Face (Dog),0,0,0,0,0,0,0,0,0,0,0,1
+"Face (Monster, gremlin, evil, alien)",0,0,0,0,0,0,1,0,0,0,0,0
+Emblem,0,0,0,0,0,0,0,0,0,0,1,0
+Insect,0,0,0,0,0,0,0,1,0,0,1,0
+Human (With no mention about lower body being indistinct),0,0,0,0,0,0,0,0,0,1,1,0
+"Human (This class of response includes many varieties of the human figure with the blot held in various positions, such as acrobat, child, gymnast, etc.)",0,0,0,0,0,0,0,0,0,0,1,0
+Rodent,0,0,0,0,0,0,0,1,0,0,1,0
+Babies (Two),0,0,0,0,0,0,0,1,0,0,1,0
+Leaf (Torn),0,0,0,0,0,0,1,0,0,0,0,0
+Art (Abstract),1,0,0,0,0,0,0,0,0,0,1,0
+Head (Bird),0,0,0,0,0,0,0,0,0,0,1,0
+Aquarium,0,0,0,1,0,0,0,0,0,0,0,1
+Dogs (Two with D7 as seperate object),0,0,0,0,0,0,0,0,0,0,1,0
+"Animal (In natural form, canine or feline, such as cat, dog, lynx, tiger, wolf, etc.)",0,0,0,0,0,0,1,0,0,0,0,0
+Crow,0,0,0,0,0,0,0,0,0,0,0,1
+Face (Human),0,0,0,0,0,0,1,0,0,0,0,0
+Menstruation,0,0,0,1,0,0,0,0,0,0,0,0
+Animals (Back to back),0,0,0,0,0,0,0,0,0,0,0,1
+Fist,0,0,0,0,0,0,0,0,0,0,1,0
+Animal (Antlered or horned),0,0,0,0,0,0,1,0,0,0,0,0
+Animal (Unspecified),0,0,0,0,0,0,1,0,0,0,0,0
+Skull,0,0,0,0,0,0,0,0,0,0,1,0
+Forest (Usually aerial view),0,0,0,1,0,0,0,0,0,0,0,0
+"Animal (Four legged, and appropriate to contours. This class of response includes a wide variety of animals, including some considered to be prehistoric. The most commonly reported include the badger, bear, cat, dog, gopher, lion, mouse, opossum, rat, and wolf. Four legged animals that are not appropriate for the contours should be coded as -, such as elephant, giraffe, horse, kangaroo, etc.)",0,0,0,0,0,0,1,0,0,0,0,1
+Humans (Two with D7 or Dd31 included as part of the human figure),0,0,0,0,0,0,0,0,1,0,1,0
+Head (Science fiction),0,0,0,0,1,0,0,0,0,0,1,0
+Pelvic Structure,0,0,0,0,0,0,1,0,0,0,1,0
+Dolls,0,0,0,0,0,0,0,1,0,0,1,0
+Mouth,0,0,0,0,0,0,0,1,0,0,0,0
+Fossil,0,0,0,0,0,0,1,0,0,0,0,0
+Dancers,0,0,0,0,0,0,0,0,0,0,1,0
+Insect (With antennae),0,1,0,0,0,0,0,0,0,1,0,1
+Bird,0,0,1,0,0,0,0,0,0,0,0,0
+Spine,0,0,0,0,0,0,1,0,0,0,0,0
+Stomach,0,0,1,0,0,0,0,0,0,0,0,0
+Bones,0,0,1,0,0,0,0,0,0,0,0,0
+Landscape (Often an aerial view),0,0,0,1,0,0,0,0,0,0,1,1
+"Animal (In unnatural form, such as flattened, skinned, etc.)",0,0,0,0,0,0,0,0,0,1,0,0
+Crab,0,0,0,0,0,0,0,1,0,0,0,0
+Bug,0,0,0,0,0,0,0,0,1,0,0,0
+Spaceship (Usually with flames),0,0,0,0,0,0,0,1,0,0,0,0
+Rocket,0,0,1,1,0,0,0,0,0,0,1,0
+Cloth (Piece),0,0,0,0,0,0,1,0,0,0,0,0
+Bone Structure,0,0,0,0,0,0,0,0,0,0,1,0
+Animal Pelt or Skin,0,0,0,0,0,0,0,0,0,1,0,1
+Dogs (With D3 as blood or separate object),0,0,0,1,0,0,0,0,0,0,0,1
+"Birds (As D1 in a scene with other objects, such as in a cage. All other objects included must be codeable as o if reported separately.)",0,0,0,0,0,0,0,0,0,0,0,1
+Insects (As D8 with D14 as another object),0,0,0,0,0,0,0,0,0,0,0,1
+Tent,0,0,0,0,0,0,1,0,0,0,0,0
+Flag,0,0,0,0,0,0,1,0,0,0,0,0
+Ducks,0,0,0,0,0,0,0,0,0,0,0,1
+Dog,0,0,0,0,0,0,0,0,0,1,0,1
+Head (Cartoon animal),0,0,0,0,0,0,0,0,0,0,1,0
+Monster (Sometimes two-headed),0,0,0,0,0,0,1,0,0,0,0,0
+Human (Upper part),0,0,0,0,0,0,1,0,0,0,0,0
+Gorilla,0,0,0,0,0,0,0,0,1,0,0,0
+Rocket Launch (With rocket at D3 and pad or smoke at D1),0,0,0,0,0,0,0,0,0,0,1,0
+X-ray (Unspecified),0,0,0,0,0,0,0,0,1,0,0,0
+Underwater Scene,0,0,0,1,0,0,0,0,0,0,1,1
+Horseshoe,0,0,0,0,0,0,1,0,0,0,0,0
+Boot,0,0,0,0,0,0,1,0,0,0,0,0
+Birds,0,0,0,0,0,0,0,0,0,0,0,1
+Human (With mention that lower body is not distinct),0,0,0,0,0,0,0,0,0,0,1,0
+Animal (Squashed),0,0,0,0,0,0,1,0,0,0,0,0
+Dancers (Two),0,0,0,0,0,0,0,0,0,0,1,0
+Anatomy (Unspecified),0,0,0,0,0,0,1,0,0,0,0,0
+Helmet,0,0,0,0,0,0,1,0,0,0,0,0
+Pump,0,0,0,0,0,0,0,0,0,0,1,0
+Humans (As D2 with D4 as separate object),0,0,0,0,0,1,0,0,0,0,1,0
+"Insects (Unspecified, or if specified, meeting appropriate contour requirements)",0,0,0,0,0,0,0,0,0,1,0,1
+Angels (Two with D4 another object),0,0,0,0,0,0,0,0,0,0,1,0
+Filet (Fish or meat),0,0,0,0,0,0,1,0,0,0,0,0
+Fish,0,0,0,0,0,0,0,0,0,0,0,1
+Nose (Cow or horse),0,0,0,0,0,0,1,0,0,0,0,0
+Eyes,0,0,0,0,0,0,0,0,0,0,1,0
+X-ray,0,0,0,0,0,0,0,1,0,0,0,0
+Elves (As D2 with D4 as separate object),0,0,0,0,0,0,0,0,0,0,1,0
+Human (Lower half),0,0,0,0,0,0,0,0,0,1,0,0
+Hands,0,0,0,0,0,0,1,0,0,0,0,0
+Gnome,0,0,0,0,0,1,0,0,0,1,0,0
+"Animals (Marine, unspecified, or if specified, meeting appropriate contour requirements)",0,0,0,0,0,0,0,0,0,0,0,1
+"Animals (As D1 in a scene with other objects, such as in a circus. All other objects included must be codeable as o if reported separately.)",0,0,0,1,0,0,0,0,1,0,1,0
+Monster (Animal),0,0,0,0,0,0,0,0,1,0,0,0
+Beetle (Winged),0,0,0,0,0,0,0,0,1,0,0,0
+Airplane (Front view),0,0,0,0,0,0,0,0,0,0,0,1
+Ghosts,0,0,1,0,0,0,0,0,0,0,1,0
+Rabbit,0,0,0,0,0,0,0,0,0,0,0,1
+Dinosaur (Front view),0,0,0,0,0,0,0,0,1,0,0,0
+"Animal (Specified as long eared such as donkey, elephant, some varieties of dogs)",0,0,0,0,0,0,0,0,0,1,0,1
+Witch,0,0,0,0,0,0,1,0,0,0,0,0
+Beetle,0,0,0,0,0,0,0,0,0,0,1,0
+Hide (Animal),0,0,0,0,0,0,0,0,1,0,0,0
+Dragon (Front view),0,0,0,0,0,0,0,0,1,0,0,0
+Leg (Human),0,0,0,0,0,0,1,0,0,0,0,0
+Face (Bear),0,0,0,0,0,0,0,0,0,0,0,1
+"Monster (Alien, robot)",0,0,0,0,0,0,0,1,0,0,1,0
+Lake,0,0,0,0,0,1,0,0,0,1,0,0
+Jacket,0,0,0,0,0,0,0,1,0,0,1,0
+Ornament,0,0,0,0,0,0,1,0,0,0,1,0
+Bird (With Dd34 as wings),0,0,0,0,1,0,0,0,0,0,0,1
+Bee,0,0,0,0,0,0,1,0,0,0,0,0
+Harbor (Includes DS7),0,0,0,0,0,0,1,0,0,0,0,0
+Airplane,0,0,0,0,0,0,1,0,0,0,0,0
+"Animal (Not winged. Note: This class of response includes a large group of animals which do not have wings or flappers such as bear, cat, dog, lion, etc.)",0,0,0,0,0,0,1,0,0,0,0,0
+Monkey,0,0,0,0,0,0,0,0,0,0,0,1
+Dolls (As D2 with D4 as separate object),0,0,0,0,0,0,0,0,0,0,1,0
+Bird (Long necked),0,0,0,0,0,0,0,0,0,0,0,1
+Scarecrow,0,0,0,0,0,0,1,0,0,0,0,0
+Leg,0,0,0,0,0,0,0,0,0,0,1,0
+Ostrich (Two),0,0,0,0,0,0,0,0,0,0,0,1
+Mountain,0,0,0,0,0,0,1,0,0,0,0,0
+Face (Skeleton animal),0,0,0,0,0,0,1,0,0,0,0,0
+Woman,0,0,0,0,0,0,1,0,0,0,0,0
+Face (Mouse),0,0,0,0,0,0,1,0,0,0,0,0
+Rug,0,0,0,0,0,0,0,0,1,0,0,1
+"Animal (Sea, such as a ray with D3 as head or tail)",0,0,0,0,0,0,0,0,0,0,0,1
+Head (Animal or human),0,0,0,0,0,0,0,0,0,1,1,0
+Anatomy (Except intestine),0,0,0,0,0,0,0,1,0,0,0,0
+Bowl,0,0,0,0,0,0,1,0,0,0,0,0
+Lung,0,0,0,1,0,0,0,0,0,0,0,0
+Woman (Winged or caped),0,0,0,0,0,0,0,0,0,0,1,0
+Abstract Drawing,0,0,0,0,0,0,0,0,0,0,1,0
+Bacteria,0,0,0,0,0,0,0,0,0,0,0,1
+Guitar (Sometimes Dd24 is excluded),0,0,0,0,0,0,1,0,0,0,0,0
+Sculpture,0,0,1,0,0,0,0,0,0,0,0,0
+Robot,0,0,0,0,0,0,1,0,0,0,0,0
+X-ray (Specific other than pelvis),0,0,0,0,0,0,0,0,1,0,0,0
+Badge,0,0,0,0,0,0,1,0,0,0,0,0
+"Animals (Two, butting heads)",0,0,0,0,0,0,0,0,0,0,0,1
+Human (Robed),0,0,0,0,0,0,1,0,0,0,1,0
+Floral Display,0,0,0,1,0,0,0,0,0,0,0,0
+Statue (Human-like),0,0,0,0,0,0,1,0,0,0,0,0
+Volcano,0,0,0,0,0,0,0,0,0,0,1,0
+"Silhouette (Human, dancer, or skater in costume)",0,0,0,0,0,0,0,0,0,0,1,0
+Rocks,0,0,0,0,0,0,1,0,0,0,0,0
+Cloud(s),0,0,0,0,0,0,1,0,0,0,0,0
+Frog (Dissected),0,0,0,0,0,0,0,0,0,0,0,1
+Nose (Animal),0,0,0,0,0,0,1,0,0,0,0,0
+Flower (Often with D6 as pot),0,0,0,1,0,0,0,0,0,1,0,0
+Statues (As D2 with D4 as base),0,0,0,0,0,0,1,0,0,0,0,0
+Spaceship (Usually with reference to DS5),0,1,0,1,0,0,0,0,0,0,1,0
+Face (Bird),0,0,0,0,0,0,1,0,0,0,0,0
+Cartoon Characters (Human or animal),0,0,1,1,0,0,0,0,0,0,1,0
+Food (Breaded or fried),0,0,0,0,0,0,1,0,0,0,0,0
+Heads (Bird),0,0,0,0,0,0,1,0,0,0,0,0
+Face (Wolf),0,0,0,0,0,0,1,0,0,0,0,0
+Face (Goat),0,0,0,0,0,0,1,0,0,0,0,0
+Clothing (Woman&rsquo;s),0,0,0,0,0,0,1,0,0,0,0,0
+Village,0,0,0,0,0,0,1,0,0,0,0,0
+Dragon,0,0,0,0,0,0,0,0,0,0,0,1
+Skull (Human or animal),0,0,1,0,0,0,0,0,0,0,0,0
+Human (Bending or diving),0,0,0,0,0,0,0,0,0,0,1,0
+Dress,0,0,0,0,0,0,0,0,1,0,0,0
+"Human-Like Figures (Usually angels, snowmen, or spirits, often with D4 as separate object)",0,0,0,0,0,0,1,0,0,0,0,0
+Smoke,0,1,0,0,0,0,0,0,0,0,1,0
+Wolf,0,0,0,0,0,0,0,0,1,0,0,1
+Helmet (Science fiction),0,0,0,0,0,0,1,0,0,0,0,0
+Humans (Back to back),0,0,0,0,0,0,0,0,0,0,1,0
+Mustache,0,0,0,0,0,0,0,1,0,0,0,0
+Landscape (Often with DS5 as lake),0,0,0,0,0,0,0,0,0,1,0,0
+Human (Two),0,0,0,0,0,0,0,0,0,0,1,0
+"Animal (In natural form, not canine or feline, such as anteater, elephant, giraffe, etc.)",0,0,0,0,0,0,0,0,0,0,0,1
+Pig,0,0,0,0,0,0,0,0,0,0,0,1
+Humans (Several on cliff or hill),0,0,0,0,0,0,0,0,0,0,1,0
+Building,0,0,0,0,0,0,0,0,0,0,1,0
+"Humans (Three, one at D4)",0,0,0,0,0,0,0,0,0,0,1,0
+Rock(s),0,0,0,0,0,0,1,0,0,0,0,0
+Head (Reptile),0,0,0,0,0,0,1,0,0,0,0,0
+Floral Arrangement,0,0,0,0,0,0,0,1,0,0,0,0
+Ship (Reflected with D3 as second object(s)),0,0,0,0,0,0,1,0,0,0,0,0
+Person,0,0,0,0,0,0,0,0,0,0,1,0
+Island (Unspecified),0,0,0,0,0,0,1,0,0,0,0,0
+Lung(s),0,0,0,0,0,0,0,1,0,0,0,0
+Fireworks Display,0,0,0,0,0,0,0,1,0,0,1,0
+Lizard (Front view),0,0,0,0,0,0,1,0,0,0,0,0
+Bell,0,0,0,0,1,0,0,0,0,0,1,0
+Pelt,0,0,0,0,0,0,0,0,0,1,0,0
+Dragonfly,0,0,0,0,0,0,1,0,0,0,0,0
+Keel (Boat),0,0,0,0,0,0,1,0,0,0,0,0
+Landscape (Often aerial view),0,0,0,0,0,0,1,0,0,0,0,0
+Fire (Usually with D1 as smoke),0,0,0,1,0,0,0,0,0,0,1,0
+Map (Specified),0,0,0,0,0,0,0,0,0,0,1,0
+Genies (D4 usually as lamp),0,0,0,0,0,0,0,0,0,1,1,0
+Birds (Two),0,0,0,0,0,0,0,1,0,0,0,1
+"Human (As D5 with other areas as flags, smoke, streamers, swing, etc.)",0,0,0,0,0,0,1,0,0,0,0,0
+Witches (Two or three),0,0,0,0,0,0,0,0,0,0,1,0
+Kangaroo,0,0,0,0,0,0,0,0,0,0,0,1
+Lobster,0,0,0,0,0,0,0,0,0,0,0,1
+Human (Sitting or lying),0,0,0,0,0,0,0,0,0,0,1,0
+X-ray (Pelvis),1,0,0,0,0,0,0,1,0,0,0,0
+"Head (Animal, specific not horned or horse)",0,0,0,0,0,0,0,0,0,0,0,1
+Sea Horse,0,0,0,0,0,0,0,1,0,0,0,0
+Castle,0,0,0,0,0,0,1,0,0,0,1,0
+Arch,0,0,0,0,0,0,0,0,0,1,0,0
+Insect (Not winged),0,0,0,0,0,0,1,0,0,0,0,0
+Totem Pole,0,0,0,0,0,0,0,0,0,0,1,0
+Kidney(s),0,0,0,0,0,0,1,0,0,0,0,0
+Devils,0,0,0,0,0,0,1,0,0,0,1,0
+Cartoon Figure,0,0,0,0,0,0,0,0,0,1,1,0
+Monument,0,0,0,0,0,1,0,0,0,1,1,0
+Monkeys (With D7 as separate object),0,0,0,0,0,0,0,0,0,0,0,1
+"Head (Animal, with whiskers)",0,0,0,0,0,0,1,0,0,0,0,0
+Paint,0,0,0,0,1,0,0,0,0,0,0,0
+Skeletal,0,0,0,0,0,0,1,0,0,0,0,0
+Bird (Prehistoric),0,0,0,0,0,0,1,0,0,1,1,0
+Animal(s),0,0,0,0,0,0,0,0,0,0,0,1
+"Face (Animal, unspecified)",0,0,0,0,0,0,1,0,0,0,0,0
+Rectum,0,0,0,0,0,0,0,0,0,1,0,0
+Foot,0,0,0,0,0,0,1,0,0,0,0,0
+Necklace,0,0,0,0,0,0,1,0,0,0,0,0
+Waterway (As D5 with other areas landscape),0,0,0,0,0,0,0,0,0,1,0,0
+Pumpkin,0,0,0,0,0,0,0,0,0,1,0,0
+Temple,0,0,0,0,1,0,0,0,0,0,0,0
+Embryos (Two),0,0,0,1,0,0,0,0,0,0,0,0
+Hat,0,0,0,0,0,0,0,0,0,1,0,0
+Leg (As D1 in clothing),0,0,0,0,0,0,1,0,0,0,0,0
+Footprint,0,0,0,0,0,0,0,1,0,0,0,0
+Fly,0,0,0,0,0,0,0,0,1,0,0,0
+Chicken,0,0,0,0,0,0,0,0,0,0,1,0
+Bird (Beak D9),0,0,0,0,0,0,1,0,0,0,0,0
+Coat-of-Arms,0,0,0,0,0,0,1,0,0,0,0,0
+Worm,0,0,0,0,0,0,0,0,0,0,0,1
+Spaceship,0,0,0,1,0,0,0,0,0,0,1,0
+Face (Animal),0,0,0,0,0,0,0,0,0,0,0,1
+"Head (Animal, large)",0,0,0,0,0,0,0,0,0,0,0,1
+Ghost,0,0,0,0,0,0,0,0,0,1,0,0
+Demon,0,0,0,0,0,0,0,0,0,0,1,0
+Dancer (In costume),0,0,0,0,0,0,1,0,0,0,0,0
+Vase,0,0,0,1,0,0,0,0,0,0,0,0
+Dracula,0,0,0,0,0,0,1,0,0,0,0,0
+Chandelier,0,0,0,1,0,0,0,0,0,0,0,0
+Archway,0,0,0,0,0,0,1,0,0,0,0,0
+Trees,0,0,0,0,0,0,1,0,0,0,0,0
+Demon (In cape or with wings),0,0,0,0,0,0,1,0,0,0,0,0
+Heads (Human),0,0,0,0,0,0,0,0,0,1,1,0
+Face (Bug),0,0,0,0,0,0,1,0,0,0,0,0
+Face (Animal w/horns),0,0,0,0,0,0,0,0,0,0,1,0
+Stingray,0,0,0,0,0,0,0,0,0,1,0,0
+Church,0,0,0,0,0,0,1,0,0,0,0,0
+Human (Sitting or squatting),0,0,0,0,0,0,0,0,0,0,1,0
+Anteater,0,0,0,0,0,0,0,0,0,1,0,0
+Animals (Not marine but meeting contour requirements),0,0,0,0,0,0,0,1,0,0,0,0
+Branch,0,0,0,0,0,0,0,1,0,0,0,0
+Doorframe,0,0,0,0,0,0,1,0,0,0,0,0
+Flower,0,0,0,0,0,0,1,0,0,0,0,0
+Arm (Human),0,0,0,0,0,0,1,0,0,0,0,0
+Cat,0,0,0,0,0,0,0,0,0,0,1,0
+Head (Human or human-like with chin at Dd24),0,0,0,0,0,0,0,1,0,0,0,0
+"Animals (Two, as D2 and identified as cat, cartoon, monkey or rabbit, with D4 as a separate object) Note: If the animals reported as D2 are not cat, cartoon, monkey, or rabbit, they should be coded as u if the contours are used in an appropriate way, or - in other cases. Examples of u include flat faced animals such as some dogs. Examples of - include fox, elephant, horse, lion, etc.",0,0,0,0,0,0,0,0,0,0,1,0
+Candle,0,0,0,0,0,0,0,0,0,0,1,0
+Cave (Opening),0,0,0,0,0,0,0,0,0,1,0,0
+"Human (Sitting, reflected)",0,0,0,0,0,1,0,0,0,0,1,0
+Flesh,1,0,0,0,0,0,0,0,0,0,1,0
+Brassiere,0,0,0,0,0,0,1,0,0,0,0,0
+Claw (Crab),0,0,0,0,0,0,1,0,0,0,0,0
+Bull,0,0,0,0,0,0,0,0,0,0,1,0
+Snake,0,0,0,0,0,0,0,0,0,0,0,1
+"Food (Pieces, usually cut up fish or chicken)",0,0,0,0,0,0,1,0,0,0,0,0
+Human (Reclining),0,0,0,0,0,0,0,0,0,0,1,0
+Dwarf,0,0,0,0,0,0,1,0,0,0,0,0
+"Animal (Small, long tail with nose at Dd24)",0,0,0,0,0,0,0,0,0,0,1,0
+Brain,0,0,0,0,0,0,0,1,0,0,0,0
+Jellyfish,0,0,0,0,0,0,1,0,0,0,0,0
+Chameleon,0,0,0,1,0,0,0,0,0,0,0,1
+Animal (Not long tailed),0,0,0,0,0,0,1,0,0,0,0,0
+Map (Specific),0,0,0,0,0,0,0,1,0,0,0,0
+Hands (Clasped),0,0,0,0,0,0,1,0,0,0,0,0
+Animal (Not antlered or horned),0,0,0,0,0,0,0,0,0,0,1,0
+Face (Photo negative and includes use of DS7 or DS10),0,0,0,0,0,0,0,0,0,0,1,0
+Clothing,0,0,0,0,0,0,0,1,0,0,0,0
+Cloth,0,0,0,0,0,0,0,0,0,0,0,1
+Face (Cow),0,0,0,0,0,0,1,0,0,0,0,0
+Gorillas,0,0,0,0,0,0,0,0,0,0,1,0
+Dirt,0,0,0,0,0,0,1,0,0,0,0,0
+Islands,0,0,0,0,0,0,0,0,0,0,1,0
+Sea Shell,0,0,0,0,0,0,1,0,0,0,0,0
+Cloud,0,0,0,0,0,0,0,1,0,0,1,0
+Dolphin,0,0,0,0,0,0,0,1,0,0,1,0
+Human (With Dd24 as head),0,0,0,0,0,0,1,0,0,0,0,0
+Chandeleir,0,0,0,0,0,0,0,1,0,0,0,0
+Child (With hands up),0,0,0,0,0,0,0,0,1,0,0,0
+Island,0,0,0,0,0,1,0,0,0,0,0,0
+Shoulders (Human),0,0,0,0,0,0,0,1,0,0,1,0
+Sea Animal,0,0,0,0,0,0,0,0,0,1,0,0
+"Animals (Two, cartoon, with each as one half of the blot)",0,0,0,0,0,0,0,0,1,1,0,0
+Forest (Aerial view),0,0,0,0,1,0,0,0,0,0,0,0
+Bone,0,0,0,0,0,0,1,0,0,0,0,0
+Mask (Science fiction),0,0,0,0,0,0,1,0,0,0,0,0
+Disc (Anatomy),0,0,0,0,0,0,0,1,1,0,1,0
+Rib(s),0,0,0,0,0,0,1,0,0,0,0,0
+Crucifixion,0,0,0,0,0,0,1,0,0,0,1,0
+Fire,0,0,0,0,0,0,0,0,0,0,1,0
+"Landscape (Usually viewed from above, but sometimes when S is used, viewed as a valley between cliffs)",0,0,0,0,0,0,0,0,0,1,0,0
+Humans (Two turned away),0,0,0,0,0,0,0,0,0,0,1,0
+Match (With fire),0,0,0,0,0,1,0,0,0,0,1,0
+Dogs,0,0,0,0,1,0,0,0,0,1,1,0
+Mushroom (Cap),0,0,0,0,0,0,1,0,0,0,0,0
+Totem,0,0,0,0,1,0,0,0,0,0,0,0
+Wig,0,0,0,0,0,0,1,0,0,0,0,0
+Mosquito,0,0,0,0,0,0,1,0,0,0,0,0
+Dancer,0,0,0,0,0,0,0,0,0,0,1,0
+Doll,0,0,0,0,0,0,0,1,0,0,0,0
+"Head (Human, profile)",0,0,0,0,0,0,1,0,0,0,0,0
+Beard,0,0,0,0,0,0,1,0,0,0,0,0
+Head (Negative as in photo),0,0,0,0,0,0,1,0,0,0,0,0
+Cello,0,0,0,0,0,0,1,0,0,0,0,0
+Drum,0,0,0,0,0,0,1,0,0,0,1,0
+Animal (Not winged),0,0,0,0,0,0,1,0,0,0,0,0
+Missile Launch (With missile at D6 and pad or smoke at D1),0,0,0,0,0,0,0,0,0,0,1,0
+Rabbit (With nose as D8),0,0,0,0,0,0,0,0,0,0,0,1
+Totem (As D3 with D1 as hill or expanse),0,0,0,0,0,0,1,0,0,0,0,0
+Turkeys,0,0,0,0,0,0,0,0,0,0,0,1
+Animal (Horned or long eared),0,0,0,0,0,0,1,0,0,0,0,0
+Buffalo,0,0,0,0,0,0,0,0,0,1,0,1
+Face (Animal with Dd34 as nose),0,0,0,0,0,0,0,0,0,0,0,1
+Caterpillar,0,0,0,0,0,0,0,0,0,0,0,1
+Airplane (Top view),0,0,0,0,0,0,0,0,0,0,1,0
+Embryo,0,0,0,0,0,0,0,1,0,0,1,0
+Paper (Torn),0,0,0,0,0,0,0,0,1,1,0,0
+Legs (Animal),0,0,0,0,0,0,0,0,0,0,1,0
+Mountain and Forest (Distant view),0,0,0,1,0,0,0,0,0,0,0,0
+Skirt,0,0,0,0,0,0,0,0,0,1,0,0
+Devil,0,0,0,0,0,0,0,0,0,0,1,0
+People (On a cliff),0,0,0,0,0,0,0,0,0,0,1,0
+Egg (Broken or fried),0,0,0,0,0,0,0,1,0,0,1,0
+Fireworks,0,0,0,0,0,0,0,1,0,0,1,0
+Fingers,0,0,0,0,0,0,0,0,0,0,1,0
+Notes (Musical),0,0,0,0,0,0,0,0,0,0,1,0
+Tank (Army),0,0,0,0,0,0,0,0,0,0,1,0
+Poster (Abstract),0,0,0,0,0,0,0,1,0,1,1,0
+Spinal Cord,0,0,0,0,0,0,1,0,0,0,0,0
+Carcass (Animal),1,0,0,0,0,0,0,0,0,0,0,0
+Crucifix (Abstract),0,0,0,0,1,0,0,0,0,0,1,0
+Bug (Flattened),0,0,0,0,0,0,1,0,0,0,0,0
+"Vegetables (D3 as carrots, D1 as lettuce, D6 as tomatoes)",0,0,0,0,0,0,1,0,0,0,0,0
+Abstract,0,0,0,0,0,1,0,0,0,0,0,0
+Bug (Smushed),1,0,0,0,0,0,0,0,1,0,0,0
+"Tail (Long, such as racoon)",0,0,0,0,0,0,0,0,0,1,0,0
+Garden Scene (With some areas as flowers or shrubbery and areas such as D11 and/or D6 as sculpture or architecture),0,0,0,1,0,0,0,0,0,0,0,0
+Head (Snail),0,0,0,0,0,0,1,0,0,0,0,0
+Meat,0,0,0,0,0,0,1,0,0,0,0,0
+"Creature (Beast, monster)",0,0,0,0,0,0,0,0,0,0,1,0
+"Face (Animal, bird, cartoon, or monster with Dd34 as nose)",0,0,0,0,0,0,0,0,0,1,0,0
+Bug (D1 as feelers),0,0,0,0,0,0,1,0,0,0,0,0
+Frogs,0,0,0,0,0,0,1,0,0,0,1,0
+"Airplane (Jet, front view)",0,0,0,0,0,0,0,1,0,0,1,0
+Chest,0,0,0,0,0,0,1,0,0,0,0,0
+Fetus,0,0,0,0,0,0,1,0,0,0,0,0
+Acrobat,0,0,0,0,0,0,1,0,0,0,0,0
+"Human-Like Figure (This class of response includes many variations of cartoon, mythological, or science fiction figures such as devil, dwarf, elf, imp, etc.)",0,0,0,0,0,0,0,0,0,1,0,0
+Plant (Sometimes with D6 as pot),0,0,0,0,0,0,0,0,1,1,1,0
+Sword,0,0,0,0,0,0,0,0,0,0,1,0
+Feet,0,0,0,0,0,0,1,0,0,0,0,0
+Toy (Human or animal),0,0,0,0,0,0,0,0,0,0,1,0
+Coat of Arms,0,0,0,0,0,0,1,0,0,0,0,1
+Canyon (Usually involves S),0,0,0,0,0,0,0,0,0,1,1,0
+Birds (As D3 under tree),0,0,0,0,0,0,0,0,0,0,0,1
+Clown,0,0,0,0,0,0,0,0,0,0,1,0
+Sock,0,0,0,0,0,0,0,0,0,1,0,0
+Rug (Design),0,0,0,1,0,0,0,0,0,0,1,0
+Girls (Dancing or standing in a circle),0,0,0,0,0,0,0,0,0,0,1,0
+Swing,0,0,0,0,0,0,0,0,0,0,1,0
+Human-Like Figures,0,0,0,0,0,0,0,0,0,0,1,0
+Mask (Usually science fiction),0,0,0,0,0,0,1,0,0,0,0,0
+Inkblot,0,0,0,0,0,0,0,0,1,0,0,0
+Lips,0,0,0,0,0,0,0,1,0,0,1,0
+Backbone,0,0,0,0,0,0,0,0,1,0,0,0
+Horns,0,0,0,0,0,0,0,0,0,0,0,1
+Bones (Unspecified),0,0,0,0,0,0,1,0,0,0,0,0
+Human Figure (Lower half),0,0,0,0,0,0,1,0,0,0,0,0
+Fountain (Abstract),0,0,0,0,0,0,0,0,0,1,0,0
+Monster (Animal-like),0,0,0,0,0,0,0,0,0,0,1,0
+Shaft (Mine),0,0,0,0,0,0,0,0,0,0,1,0
+Animal (As D2 on hill or rock),0,0,0,0,0,0,0,0,0,0,0,1
+"Fingers (Two, as in victory sign)",0,0,0,0,0,0,0,0,0,0,1,0
+Fire and Smoke,0,0,0,0,0,0,1,0,0,0,0,0
+Mud,0,1,0,0,0,0,0,0,0,0,1,0
+Animal (With head at D7),0,0,0,0,0,0,0,0,0,1,0,1
+Thumb,0,0,0,1,0,0,0,0,0,1,0,0
+Eiffel Tower,0,0,0,0,0,0,0,1,0,1,0,0
+Eye,0,0,0,0,0,0,0,0,0,1,1,0
+Head(s),0,0,0,0,0,0,0,0,0,1,1,0
+Shoe,0,0,0,0,0,0,1,0,0,0,1,0
+Feather,0,0,0,0,0,0,0,0,0,1,1,0
+Tail,0,0,0,0,0,0,0,0,0,1,1,0
+Lava,0,0,0,1,0,0,0,0,0,0,1,0
+Water Wings,0,0,0,0,0,0,0,0,0,0,1,0
+Walkway (As center space and other areas as flowers and/or shrubbery),0,0,0,1,0,0,0,0,0,0,0,0
+Guitar,0,0,0,0,0,0,1,0,0,0,0,0
+Body (Lower half),0,0,0,0,0,0,0,0,1,0,0,0
+"Sheep (Two, or lambs)",0,0,0,0,0,0,0,0,0,1,0,1
+Sword in Stone,0,0,0,0,0,0,1,0,0,0,0,0
+"Animal (Specified as short eared such as cat, cow, and some varieties of dogs)",0,0,0,0,0,0,0,0,0,0,0,1
+Horn (Animal),0,0,0,0,0,0,1,0,0,0,0,0
+Intestines,0,0,0,0,0,0,0,0,0,0,1,0
+Antlers,0,0,0,0,0,0,1,0,0,0,0,0
+Wings,0,0,0,0,0,0,0,0,0,1,1,0
+"Bug (Unspecified, not winged)",0,0,0,0,0,0,0,0,0,1,0,1
+"Head (Animal, cartoon or toy)",0,0,0,0,0,0,0,0,0,0,0,1
+Plant,0,0,0,0,0,0,0,0,0,1,0,0
+Head (Dragon),0,0,0,0,0,0,0,0,0,0,0,1
+Kite,0,0,0,0,0,0,1,0,0,0,0,0
+Lamp,0,0,0,0,1,0,0,0,1,0,1,0
+"Shrimp (Two, natural form)",0,0,0,0,0,0,0,0,0,1,0,1
+Lighthouse,0,0,0,0,0,0,1,0,0,0,1,0
+"Head (Human, reflected)",0,0,0,0,0,0,0,0,0,1,1,0
+Building (With chimney or tower),0,0,0,0,0,0,0,1,0,1,1,0
+Waterway,0,0,0,0,0,0,0,0,0,0,1,0
+"Head (Animal, long eared)",0,0,0,0,0,0,1,0,0,0,0,0
+Animal (Cartoon or prehistoric),0,0,0,0,0,0,0,0,0,0,1,0
+Artifact (Indian),0,0,0,0,0,1,1,0,0,0,0,0
+Animal (Cartoon),0,0,0,0,0,1,0,0,0,0,0,0
+Snowflake,0,0,1,0,0,0,0,0,0,0,0,0
+Groudhog,0,0,0,0,0,0,0,0,0,1,0,0
+Pole,0,0,0,0,0,0,0,0,0,0,0,1
+Mask Details,0,0,0,0,1,0,0,0,0,1,1,0
+Nervous System,0,0,0,1,0,0,0,0,0,0,0,0
+Banana,0,0,0,0,0,0,0,0,0,1,1,0
+Hole (Bullet),0,0,0,0,0,1,0,1,0,1,0,0
+Face (Science fiction),0,0,0,0,0,0,0,0,0,1,1,0
+Coral,0,0,0,1,0,0,0,0,0,0,0,1
+Nose,0,0,0,0,0,0,0,0,0,1,0,0
+Arm (Deformed),0,0,0,0,0,0,0,0,1,1,0,0
+Acrobat (Doing handstand),0,0,0,0,0,0,0,0,0,0,1,0
+Cliff,0,0,0,0,0,0,1,0,0,0,0,0
+Claws,0,0,0,0,0,0,0,0,0,0,1,0
+People (Two) Dancing,0,0,0,0,0,0,0,0,0,0,1,0
+Legs (Human),0,0,0,0,0,0,0,0,1,0,1,0
+Lampshade,0,0,0,0,0,0,1,0,0,0,0,0
+Head (Human-like w/hat),0,0,0,0,0,0,1,0,0,0,0,0
+"Landscape (Note: This category includes rocks, rocky terrain, and broad landscape expanse such as a mountainside)",1,0,1,0,1,0,0,0,0,0,0,0
+"Head (Bird, duck, horse)",0,0,0,0,0,0,1,0,0,0,0,0
+Goat,0,0,0,0,0,0,0,0,0,0,0,1
+Microorganism,0,0,0,0,0,0,0,0,0,0,0,1
+"Head (Animal, with Dd21 as nose or trunk)",0,0,0,0,0,0,1,0,0,0,0,0
+"Bird (To midline, being reflected)",0,0,0,0,0,0,0,0,0,0,0,1
+Squirrel (Flying),0,0,0,0,0,0,1,0,0,0,0,0
+Bush(es),0,0,0,0,0,0,1,0,0,0,0,0
+Crucifixion (On hill),0,0,0,0,0,0,0,0,1,0,1,0
+Crown,0,0,0,0,0,0,1,0,0,0,0,0
+Table,0,0,0,0,0,0,0,0,0,0,1,0
+Waterfall (As D5 with other areas as foliage and/or landscape),0,0,0,1,1,0,0,0,0,0,1,0
+Cake,0,0,0,0,0,0,0,1,0,0,0,0
+Mine Shaft (Cutaway view),0,0,0,0,0,0,1,0,0,0,0,0
+Temple (With dome),0,0,0,0,0,0,1,0,0,0,0,0
+Chair (Includes use of DS7),0,0,0,0,0,0,1,0,0,0,1,0
+Snail,0,0,0,0,0,0,1,0,0,0,0,0
+Feelers,0,0,0,0,0,0,0,0,0,0,0,1
+Squirrel,0,0,0,0,0,0,0,0,0,1,0,0
+Statues,0,0,0,0,0,0,0,0,0,0,1,0
+"Human (Adult, male)",0,0,0,0,0,0,0,0,0,0,1,0
+"Face (Rabbit, floppy ears)",0,0,0,0,0,0,1,0,0,0,0,0
+Conch Shell,0,0,0,0,0,0,0,0,0,1,1,0
+Ear,0,0,0,0,0,0,0,0,0,0,0,1
+Mermaid,0,0,0,0,0,0,0,0,0,0,1,0
+Leg (Animal),0,0,0,0,0,0,1,0,0,0,0,0
+Owl,0,0,0,0,0,0,0,1,0,0,0,1
+Pagoda,0,0,0,1,0,0,0,0,1,0,0,0
+Raspberries,0,0,0,0,0,0,0,1,0,0,0,0
+Waterfall,0,0,0,0,0,0,1,0,0,0,0,0
+Plants,0,0,0,0,0,0,0,1,0,0,0,0
+Bug (Smashed),0,0,0,0,0,0,1,0,0,0,0,0
+Baboon,0,0,0,0,0,0,0,0,1,0,1,0
+Turtle,0,0,0,0,0,0,1,0,0,0,0,0
+"Head (Animal, with Dd21 as ear or horn)",0,0,0,0,0,0,1,0,0,0,0,0
+Peacock,0,0,0,0,1,0,0,0,1,0,0,0
+"Head (Human, adult male)",0,0,0,0,0,1,0,0,0,0,1,0
+Finger Painting,0,0,0,0,0,0,0,0,0,0,1,0
+Legs (Animal or human),0,0,0,0,0,0,0,0,0,1,0,0
+Volcano (Erupting),0,0,0,1,0,0,0,0,0,0,1,0
+Coat,0,0,0,0,0,0,1,0,0,0,0,0
+Shrub(s),0,0,0,0,0,0,1,0,0,0,1,0
+Skeleton (Unspecified),0,0,0,0,0,0,1,0,1,0,0,0
+Head (Fish),0,0,0,0,0,0,0,0,0,1,1,0
+Man,0,0,0,0,0,0,0,0,0,1,0,0
+Ice Cream Cone,0,0,0,0,0,1,0,0,0,0,0,0
+Human (Hang gliding),0,0,0,0,0,0,0,0,0,0,1,0
+Vampire,0,0,0,0,0,0,0,0,0,0,1,0
+Spaceship (Science fiction),0,0,0,0,0,0,0,1,0,0,0,0
+Head (Skeletal),0,0,0,0,1,0,0,0,0,0,1,0
+Cell (Biological),0,0,0,0,0,0,1,0,0,0,0,0
+Legs,1,0,0,0,0,0,0,0,0,0,1,0
+Cow,0,0,0,0,0,1,0,0,0,0,0,1
+Animal (Leaping),0,0,0,0,0,0,0,0,0,0,0,1
+Circus Tent,0,0,0,0,0,0,0,0,0,0,1,0
+"Fish (See also Animal, Sea)",0,0,0,0,0,0,0,0,0,1,0,0
+Waterfall (As D1 with landscape around),0,1,0,0,1,0,0,0,0,0,0,0
+Bug (Not winged),0,0,0,0,0,0,1,0,0,0,0,0
+Cocoon (With winged insect emerging),0,0,0,0,0,0,0,0,0,0,0,1
+Flower Garden,0,0,0,1,0,0,0,0,0,0,0,0
+Root,0,0,0,0,0,0,0,0,0,0,1,0
+Machine,0,0,0,0,0,0,0,1,0,0,0,0
+Human Profile,0,0,0,0,0,0,0,0,0,0,1,0
+Mushroom,0,0,0,0,0,0,1,0,0,0,0,0
+Genitals (Male),0,0,0,0,0,0,1,0,0,0,0,0
+Tank (Top view with cannon),0,0,0,0,0,0,0,0,0,1,1,0
+Wishbone,0,0,0,0,0,0,0,0,0,1,0,0
+Symbol (Abstract),0,0,0,0,0,1,0,1,0,1,1,0
+Ice,0,0,0,0,0,0,0,1,0,0,0,0
+Seaweed,0,0,0,1,0,0,0,0,0,0,0,1
+Garden,0,0,0,1,0,0,0,0,0,1,0,0
+Road,0,0,0,0,1,0,0,0,0,0,0,0
+Coat (Hanging on post),0,0,0,0,0,0,1,0,0,0,0,0
+Headdress,0,0,0,1,0,0,0,0,0,0,1,0
+Bowl (Ornamental),0,0,0,0,0,0,0,1,0,0,0,0
+Cross (Abstract or modern),0,0,0,0,0,0,1,0,0,0,0,0
+Face (Devil or monster),0,0,0,0,0,0,1,0,0,0,0,0
+Tunnel,0,0,0,0,0,1,0,0,0,1,0,0
+Canyon,0,0,0,0,0,0,0,0,1,1,0,0
+Chair (Wing),0,0,0,0,0,0,0,0,0,1,0,0
+Body (Split),0,0,0,0,0,0,0,0,0,1,1,0
+Drill,0,0,0,0,0,0,0,0,0,0,1,0
+Chicken Leg (Cooked),0,0,0,0,0,0,1,0,0,0,0,0
+Cockroach,0,0,0,0,0,0,0,0,0,1,0,1
+Flags,0,0,0,0,0,0,0,0,0,0,1,1
+Eye Glasses,0,0,0,0,0,0,0,0,0,1,0,0
+Rock,0,0,0,0,0,0,1,0,0,0,0,0
+Dragon (Usually with wings),0,0,0,0,0,0,0,0,1,0,1,0
+"Face (Animal, bird, cartoon, or monster with Dd34 as ear)",0,0,0,0,0,0,1,0,0,0,0,0
+Rug (Oriental),0,0,0,0,0,0,0,1,0,0,0,0
+Water (Drop),0,0,0,0,0,0,1,0,0,0,0,0
+Sea Animal (With D2 or Dd34 as flappers),0,0,0,0,0,0,1,0,0,0,0,0
+"Head (Animal, with snout at the D5 centerline)",1,0,0,0,0,0,0,0,0,0,0,0
+Ship,0,0,0,0,0,1,0,0,0,0,1,0
+Fur Pelt,0,0,0,0,0,0,1,0,0,0,0,0
+Face (Dragon),0,0,0,1,0,0,0,0,0,0,1,1
+Bow,0,0,0,0,0,0,1,0,1,0,1,0
+Tree Trunk,0,0,0,0,0,0,0,0,0,0,1,0
+Diamond,0,0,0,0,0,0,1,0,0,0,0,0
+Puzzle,0,0,0,0,0,0,1,0,0,0,0,0
+Alligator,0,0,0,0,0,0,1,0,0,0,0,1
+Lion,0,0,0,0,0,0,0,0,0,1,0,1
+"Ship (With sails, view from end)",0,0,0,0,0,0,0,0,0,0,1,0
+Duck,0,0,0,0,0,0,0,0,0,0,0,1
+Clove,0,0,0,0,0,0,0,0,0,1,0,1
+Explosion (With D4 as mushroom cloud),0,0,0,0,0,0,1,0,0,0,0,0
+Fountain,0,0,0,0,0,0,0,0,0,0,1,0
+Cape,0,0,0,0,0,0,0,0,0,0,1,0
+Cricket,0,0,0,0,0,0,0,0,0,0,1,0
+Octopus,0,0,0,0,0,0,0,0,0,0,0,1
+Ape,0,0,0,0,0,0,0,0,0,0,1,0
+Hamster,0,0,0,0,0,0,0,0,0,0,1,0
+Flowers (Bouquet),0,0,0,1,0,0,0,0,0,0,0,0
+Painting (Finger),0,0,0,0,0,0,0,1,0,0,1,1
+Wood,0,0,1,0,0,0,0,0,0,0,0,0
+Lighthouse (On hill),0,0,0,0,0,0,1,0,0,0,0,0
+Frog Legs (Food),0,0,0,0,0,0,1,0,0,0,0,0
+Monster (Human-like),0,0,0,0,0,0,0,0,1,0,1,0
+Mitten,0,0,0,0,0,0,1,0,0,0,0,0
+Face (Witch),0,0,0,0,0,0,1,0,0,0,0,0
+Forest (Top view),0,0,1,0,0,1,0,0,0,0,0,0
+Hair,0,0,0,0,0,0,0,1,0,0,0,0
+Hat (Historical),0,0,0,0,0,0,1,0,0,0,0,0
+Beak,0,0,0,0,0,0,0,0,1,1,0,0
+Foliage,0,0,0,0,0,0,0,0,0,1,0,0
+Gun (Space or toy),0,0,0,0,0,0,0,0,0,1,0,0
+Anchor,0,0,0,0,0,0,1,0,0,0,0,0
+Helmet (Ancient),0,0,0,0,0,0,1,0,0,0,0,0
+X-ray (Lungs),0,0,0,0,0,0,1,0,0,0,0,0
+Glacier,0,0,0,0,0,0,1,0,0,0,0,0
+Car,0,0,0,0,0,0,0,0,0,1,0,0
+Children&rsquo;s Play Park (With all areas included as play equipment),0,0,0,0,0,0,1,0,0,0,0,0
+Keyhole,0,0,0,0,0,0,0,0,0,1,1,0
+"Face (Insect, specified)",0,0,0,0,0,0,0,0,0,0,1,0
+Heads (Reptile),0,0,0,0,0,0,0,0,0,0,1,0
+Buddha,0,0,0,0,0,0,0,0,0,0,1,0
+Note (Musical),0,0,0,0,0,0,0,0,0,0,1,0
+Butterfly (Side view),0,0,0,0,0,0,0,0,0,0,0,1
+U,0,0,0,0,0,0,1,0,0,0,0,0
+Painting (Modern),0,0,0,1,0,0,0,0,0,0,0,0
+Neck,0,0,0,0,0,0,1,0,0,0,0,0
+Violin (Usually with Dd24 excluded),0,0,0,0,0,0,0,0,0,1,0,0
+"Humans (Two, with arms raised)",0,0,0,0,0,0,1,0,0,0,0,0
+Head (Alligator),0,0,0,0,0,0,1,0,0,0,0,0
+Cherub,0,0,0,0,0,0,0,0,0,0,1,0
+Vaginal Area,0,0,0,0,0,0,1,0,0,1,0,0
+Worms,0,0,0,0,0,0,0,0,0,0,1,0
+"Head (Statue, usually gargoyle)",0,0,0,0,0,0,0,0,0,0,1,0
+Bones (Skeletal),0,0,0,0,0,0,1,0,0,1,0,0
+Scorpion,0,0,0,0,0,0,1,0,0,0,0,0
+Floral Design,0,0,0,0,0,0,0,1,0,0,0,0
+Light Bulb,0,0,0,0,0,0,1,0,0,0,0,0
+Creature (Cartoon),0,0,0,0,0,0,0,0,0,0,1,0
+Animal (Stuffed),0,0,0,0,0,0,0,0,0,0,1,0
+Head (Cartoon),0,0,0,0,0,0,0,0,0,0,1,0
+Fur,0,0,0,0,0,0,0,0,0,1,0,0
+Human (Abstract),0,0,0,0,0,0,0,0,0,0,1,0
+Map (Italy),0,0,0,0,0,0,1,0,0,0,0,0
+Fan,0,0,0,0,0,0,1,0,0,0,0,0
+Shield,0,0,0,0,0,0,0,0,0,0,1,0
+"Head (Animal, small such as cat, dog, monkey, etc.)",0,0,0,0,1,0,0,0,0,0,0,1
+Wizard,0,0,0,0,0,0,1,0,0,0,0,0
+Shrimp,0,0,0,0,0,0,0,0,0,0,1,0
+Forest Fire,0,0,0,1,0,0,0,0,0,0,0,0
+Cocoon (With butterfly or larvae as D3),0,0,0,0,0,0,0,0,0,0,0,1
+Sponge,0,0,0,0,0,0,1,0,0,0,0,0
+Kidneys,0,0,0,0,0,0,0,1,0,0,0,0
+Bug (With D1 as antennae or feelers),0,0,0,0,0,0,1,0,0,0,0,0
+Tooth,0,0,0,0,0,0,1,0,0,0,0,0
+Stool,0,0,0,0,0,0,0,0,0,1,0,1
+Tornado,0,1,0,0,0,0,0,0,0,0,1,0
+"Head (Animal, with D5 as trunk)",0,0,0,0,0,0,0,0,0,0,1,1
+Shoes,0,0,0,0,0,0,0,0,0,1,0,1
+Lamp (Kerosene),0,0,0,0,0,0,0,1,0,0,0,0
+Trophy,0,0,0,0,0,0,0,0,0,0,0,1
+"Head (Animal, with snout at Dd24, often with DdS29 as eye)",0,0,0,0,0,0,0,0,0,0,1,0
+Lamp (Ornamental),0,0,0,0,0,0,1,0,0,0,0,0
+Water (Splashing),0,0,0,0,0,0,0,0,0,0,1,1
+Nostrils (Animal),0,0,0,0,0,0,1,0,0,0,0,0
+Iguana,0,0,0,0,0,0,0,0,0,0,0,1
+Head (Insect),0,0,0,1,0,1,1,0,0,0,0,0
+Uterus,0,0,0,0,0,0,0,1,0,1,0,0
+Scarab (Beetle pin),0,0,1,0,0,0,0,0,0,0,0,0
+Skeleton (Partial),0,0,0,0,0,0,1,0,0,0,0,0
+Elves,0,0,0,0,0,0,0,0,0,0,1,0
+Statues (Human or animal),0,0,0,0,0,0,0,0,0,0,1,0
+"Head (Animal, with snout at D5 centerline or at Dd24)",0,0,0,0,0,0,0,0,0,0,0,1
+Claw,0,0,0,0,0,0,1,0,0,0,0,0
+Wing,0,0,0,0,0,1,0,0,0,0,0,0
+Landscape (Often as aerial view),0,0,0,0,0,0,0,0,0,0,1,0
+Bud (Flower),0,0,0,0,0,0,0,1,0,0,1,0
+Breasts,0,0,0,0,0,0,0,0,0,0,1,0
+Clouds,0,1,0,0,0,0,1,0,0,0,0,0
+Ballerina (In costume),0,0,0,0,0,0,1,0,0,0,0,0
+Antennae,0,0,1,0,0,0,1,0,0,0,1,0
