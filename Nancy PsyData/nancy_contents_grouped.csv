@@ -302,7 +302,7 @@ Et là plus genre un loup avec les yeux et le pelage autour.,And there more like
  have water lilies, things,
  stuff like that, and you move on to
  side of the fleet and you have like a
- lake or something like that",Scen / Bot / Elem,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,0,0,0,0,0
+ lake or something like that",Scen / Bot / Elem,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0
 "En fait, on a l’impression
  que c’est un lac ou un canal plutôt,
  ça c’est le bord du canal ici
@@ -631,7 +631,7 @@ Et là plus genre un loup avec les yeux et le pelage autour.,And there more like
  Then it's more, I don't know
  what, I can imagine the rest,
  a plain or I don't know what
- (shows dark gray)",Elem / bot / pays,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+ (shows dark gray)",Elem / bot / pays,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 "Et là tu vois c’est bizarre,
  parce que tu as le changement de
  couleurs, là c’est genre le ciel
@@ -662,7 +662,7 @@ Et là plus genre un loup avec les yeux et le pelage autour.,And there more like
  case… I don’t know if you see what
  I mean, I'm not walking away
  really but… if you change
- the scale in fact",Pays / Elem / Bot,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+ the scale in fact",Pays / Elem / Bot,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 "Et ce genre de petites
  loupiotes là, ces éclaircissements,
  ça peut être des trucs de villes en
@@ -730,7 +730,7 @@ Et là plus genre un loup avec les yeux et le pelage autour.,And there more like
  what, summer fire or I don't know
  So it's much more
  coherent because it's smoke
- who starts from that",Elem / bot,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+ who starts from that",Elem / bot,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 "Ça, ça peut être une raie
  aussi, avec le truc qui pique mais
  heu… généralement c’est
@@ -775,7 +775,7 @@ Les boyaux normaux.,Normal hoses.,Anat,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 Les boyaux fumés parce qu'ils sont verts.,The casings are smoked because they are green.,Anat,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 Les branchites.,Branchites.,Anat,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 "C'est le corps d'un alien, car il a 4 poumons.","It's the body of an alien, because it has 4 lungs.",Anat,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-Tête d'animal.,Animal head.,Ad/Anat,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Tête d'animal.,Animal head.,Ad/Anat,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 "Le truc bleu, c'est de la flotte.",The blue thing is fleet.,Elem,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 "Le rose, c'est le sang.",Pink is blood.,Sg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 "Il y a eu une bagarre, mais le corps n'est plus là, le sang est encore frais.","There was a fight, but the body is no longer there, the blood is still fresh.",Sg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -793,11 +793,11 @@ On dirait encore un papillon,It still looks like a butterfly,A,0,0,0,0,1,0,0,0,0
 "A l’endroit, je vois plus un bassin","In the place, I no longer see a pool",Anat,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 Un peu des bonhommes individuels de chaque côté mais un peu difformes,A few individual figures on each side but a little misshapen,H,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 "On dirait un peu…je sais pas…ah si un éléphant ou plus un mammouth, enfin c’est plus ou moins la même chose…mais ducoup il a pas d’œil, il est déformé","It looks a bit like...I don't know...ah if an elephant or more like a mammoth, well it's more or less the same thing...but suddenly it doesn't have an eye, it's deformed",A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-"Bh là on dirait vraiment un papillon pour le coup…^v^… On dirait qu’il a un visage, des yeux et un nez, enfin je vois","Well, it really looks like a butterfly…^v^… It looks like it has a face, eyes and a nose, well I see",A/Ad,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+"Bh là on dirait vraiment un papillon pour le coup…^v^… On dirait qu’il a un visage, des yeux et un nez, enfin je vois","Well, it really looks like a butterfly…^v^… It looks like it has a face, eyes and a nose, well I see",A/Ad,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 On dirait une espèce de guitare dans la forme…v… ou un arbre dans l’autre sens,It looks like a kind of guitar in the shape...v... or a tree in the other direction,Obj/Bot,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 Je vois un autre truc mais je ne saurai pas dire quoi…un fruit qu’on aurait découpé mais c’est peu précis,I see something else but I can't say what...a fruit that has been cut but it's not very precise,Alim,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 On dirait un espèce de visage,It looks like a kind of face,Hd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-"On dirait un peu des personnages là, le visage et le buste","They look a bit like characters there, the face and the bust",H/Hd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+"On dirait un peu des personnages là, le visage et le buste","They look a bit like characters there, the face and the bust",H/Hd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 "Les trucs là en rose sur le côté on dirait des animaux, des espèces de tigre ou panthère quelque chose comme ça","The things there in pink on the side look like animals, species of tiger or panther something like that",A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 Le truc en haut on dirait une tête d’insecte mais rapprochée,The thing at the top looks like an insect head but close up,Ad,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 Les trucs oranges on dirait un peu des flammes,The orange things look a bit like flames,Elem,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
@@ -820,7 +820,7 @@ Mais j’aime bien cette image, fin j’aime bien les couleurs, c’est un peu�
 ","Oh ! Then I see a little butterfly.
 But I like this image, I like the colors, it's a little... well it's less..., it's more pleasant than the first.
 ",A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-"Alors, je sais pas pourquoi, mais… c’est, je sais pas… Là j’ai l’impression que c’est des pattes, genre des jambes et là un… je sais pas. Alors attends (rires). Moi je le mettrais comme ça. Ouais, là des jambes, genre des cuisses, on dirait des trucs de poulet (rires) et là un papillon, et là je sais pas.","So, I don't know why, but... it's, I don't know... I have the impression that it's paws, like legs and there a... I don't know. So wait (laughs). I would put it like that. Yeah, there are legs, like thighs, they look like chicken things (laughs) and there is a butterfly, and there I don't know.",Ad/Hd/A,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0
+"Alors, je sais pas pourquoi, mais… c’est, je sais pas… Là j’ai l’impression que c’est des pattes, genre des jambes et là un… je sais pas. Alors attends (rires). Moi je le mettrais comme ça. Ouais, là des jambes, genre des cuisses, on dirait des trucs de poulet (rires) et là un papillon, et là je sais pas.","So, I don't know why, but... it's, I don't know... I have the impression that it's paws, like legs and there a... I don't know. So wait (laughs). I would put it like that. Yeah, there are legs, like thighs, they look like chicken things (laughs) and there is a butterfly, and there I don't know.",Ad/Hd/A,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
 "Han ! On dirait deux personnes qui se battent, tête contre tête, genre et le papillon du coup c’est le choc. Et là du coup c’est leurs pattes.","Han! It looks like two people fighting, head to head, like, and the butterfly is shock. And then it’s their paws.",H,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 "On dirait des animaux. Ou des personnes ? Non, des animaux un peu, je sais pas. Ouais non, des animaux qui se battent. En plus euh, y’a un peu de rouge sur eux, donc on dirait des taches de sang. Ouais.
 Beaucoup de violence hein ? (Rires)","They look like animals. Or people? No, a bit of animals, I don't know. Yeah no, animals fighting. Plus uh, there's a little red on them, so they look like blood stains. Yeah.
@@ -834,7 +834,7 @@ Oh j’ai pris une minute de plus ! (Rires)","Yeah, that's about it. Yeah. Then 
 Yeah. That's about it, I think.
 
 Oh I took another minute! (Laughs)",(Hd)/Symb,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
-"Euh, on dirait un peu deux…, deux hommes qui essayent de porter une charge lourde et là on dirait un nœud papillon. Y’a beaucoup de papillons aussi… ","Um, it looks a bit like two…, two men trying to carry a heavy load and there it looks like a bow tie. There are a lot of butterflies too...",H/Obj/Vet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,2,0,0
+"Euh, on dirait un peu deux…, deux hommes qui essayent de porter une charge lourde et là on dirait un nœud papillon. Y’a beaucoup de papillons aussi… ","Um, it looks a bit like two…, two men trying to carry a heavy load and there it looks like a bow tie. There are a lot of butterflies too...",H/Obj/Vet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0
 "Là on dirait des poumons. Alors, pourquoi y’aurait des poumons… c’est une grande question. ",They look like lungs. So why would there be lungs… that’s a big question.,Anat,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 "Mais ouais, on dirait deux hommes qui se font face à face.","But yeah, it looks like two men facing each other.",H,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 "Alors, c’est un peu bizarre ce que je vais dire mais j’ai l’impression un peu que au milieu c’est leur cœur, et que j’sais pas… y’a une euh… y’a un échange qui se fait. ","So, it's a little strange what I'm going to say but I have the impression a little that in the middle it's their heart, and that I don't know... there's an uh... there's an exchange which is done.",Anat,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
@@ -870,7 +870,7 @@ Pourquoi je vois que des animaux partout, c’est ça la vraie question.
 ","Or there it looks like a wild boar, like there are its ears, and there is its snout. (Laughs)
 
 Why do I see animals everywhere, that's the real question.
-",A/Ad,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+",A/Ad,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 "Ouais je vois une bête, qui me regarde méchamment en fait. On dirait elle me veut euh…, elle me reproche quelque chose.","Yeah I see a beast, which actually looks at me nastily. It seems like she wants me, uh…, she blames me for something.",A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 "Ou alors peut-être un masque, je sais pas. Ouais. 
 
@@ -880,7 +880,7 @@ Ouais, celle-là elle est pas gentille, (rires), j’aime pas, je préfère avec
 Yeah, that one isn't nice (laughs), I don't like it, I prefer it with the red spots (laughs).
 ",Mq,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
 "On dirait un papillon. Y’a beaucoup de papillons, hein…","It looks like a butterfly. There are a lot of butterflies, eh…",A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-"Ah ! Ou alors deux oiseaux qui… genre là c’est leurs becs, et là c’est leurs ailes. Mmh.","Ah! Or two birds which... like this is their beaks, and this is their wings. Hmm.",A/Ad,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+"Ah ! Ou alors deux oiseaux qui… genre là c’est leurs becs, et là c’est leurs ailes. Mmh.","Ah! Or two birds which... like this is their beaks, and this is their wings. Hmm.",A/Ad,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 Ouais un papillon qui essaye de s’envoler quelque part. Mmh.,"Yeah, a butterfly trying to fly away somewhere. Hmm.",A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 "Ou le bas d’un masque, pour genre cacher la… genre là je vois le nez, et là c’est pour cacher genre la bouche, ouais.  Comme dans les méchants dans les films.","Or the bottom of a mask, to kind of hide the... like there I see the nose, and there it's to hide like the mouth, yeah. Like the bad guys in the movies.",Mq/Hd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
 "Euh…
@@ -891,17 +891,17 @@ I see an animal skin, it’s horrible!
 Like rugs, bear rugs and stuff. I do not like at all. (Laughs).
 ",(Ad)/Obj,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
 "Ou alors euh… Qu’est-ce que je vois ? Je vois un peu un totem-là, comme les totems indiens.","Or uh... What do I see? I see a bit of a totem there, like Indian totems.",Obj,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-"Puis là je vois une étendue d’herbe ou d’eau, quelque chose d’assez paisible. Si on rejoint le totem, ouais quelque chose d’assez paisible. ","Then there I see an expanse of grass or water, something quite peaceful. If we join the totem, yeah something quite peaceful.",Elem/Bot/Nat,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+"Puis là je vois une étendue d’herbe ou d’eau, quelque chose d’assez paisible. Si on rejoint le totem, ouais quelque chose d’assez paisible. ","Then there I see an expanse of grass or water, something quite peaceful. If we join the totem, yeah something quite peaceful.",Elem/Bot/Nat,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 "Et sinon ouais, quand je retourne par contre je vois une peau de bête, bon, moins paisible, avec peut-être un feu de cheminée là du coup. 
 
 J’sais pas. Je m’imagine chez des chasseurs.
 ","And otherwise yeah, when I go back I see an animal skin, well, less peaceful, with perhaps a chimney fire there as a result.
 
 I dunno. I imagine myself among hunters.
-",(Ad)/Obj/Elem/Pays,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,2,0,0,1,0,0
-"Ah, mais si je la prends comme ça, j’ai l’impression que là on est dans l’eau et qu’en fait ça c’est le reflet de l’eau et que du coup c’est un peu une forêt, ou une montagne. Un truc qui rejoint le paysage en tout cas. Mais euh, j’irais pas m’y promener hein, parce que ça a l’air un peu bizarre quand même. On dirait un peu une forêt hantée, comme dans les films. C’est peut-être la couleur noire qui me fait dire ça mais euh… Mais ouais. ","Ah, but if I take it like that, I have the impression that we are in the water and that in fact it is the reflection of the water and that therefore it is a bit of a forest , or a mountain. Something that fits into the landscape in any case. But uh, I wouldn't go for a walk there, eh, because it looks a little weird anyway. It looks a bit like a haunted forest, like in the movies. Maybe it's the color black that makes me say that but uh... But yeah.","Elem/Nat/Pays",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+",(Ad)/Obj/Elem/Pays,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+"Ah, mais si je la prends comme ça, j’ai l’impression que là on est dans l’eau et qu’en fait ça c’est le reflet de l’eau et que du coup c’est un peu une forêt, ou une montagne. Un truc qui rejoint le paysage en tout cas. Mais euh, j’irais pas m’y promener hein, parce que ça a l’air un peu bizarre quand même. On dirait un peu une forêt hantée, comme dans les films. C’est peut-être la couleur noire qui me fait dire ça mais euh… Mais ouais. ","Ah, but if I take it like that, I have the impression that we are in the water and that in fact it is the reflection of the water and that therefore it is a bit of a forest , or a mountain. Something that fits into the landscape in any case. But uh, I wouldn't go for a walk there, eh, because it looks a little weird anyway. It looks a bit like a haunted forest, like in the movies. Maybe it's the color black that makes me say that but uh... But yeah.","Elem/Nat/Pays",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 "Et sinon, là je vois des petits crochets genre l’impression que c’est… j’sais pas, un truc qui va se refermer pour t’attraper. ","And otherwise, there I see little hooks, giving the impression that it's... I don't know, something that's going to close to catch you.",Obj,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-"Ouais, maintenant je vois que la forêt en fait. Là ça a l’air plus sombre que là, donc je dirais que là c’est où les gens ne veulent pas aller et là contre toute attente, c’est là où on a envie d’aller. Ouais.","Yeah, now I see that the forest actually. There it looks darker than there, so I would say that there is where people don't want to go and there against all odds, that's where we want to go. Yeah.","Abs/Nat/Pays",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0
+"Ouais, maintenant je vois que la forêt en fait. Là ça a l’air plus sombre que là, donc je dirais que là c’est où les gens ne veulent pas aller et là contre toute attente, c’est là où on a envie d’aller. Ouais.","Yeah, now I see that the forest actually. There it looks darker than there, so I would say that there is where people don't want to go and there against all odds, that's where we want to go. Yeah.","Abs/Nat/Pays",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
 "Ou alors, là je vois deux ours ! Deux ours qui tendent leur bras comme ça. (Rires). Et là c’est leur petit museau là. Mais du coup je sais pas trop sur quoi ils sont mais… ils sont ralliés à un truc. 
 
 On dirait ils essayent de se détacher, et que leur peau elle est fixée genre. Ouais. (Je vois leurs dos collés, rajoute-t-elle quand je demande de répéter).
@@ -910,18 +910,18 @@ Ouais j’aime bien cette planche. C’est tout ce que j’ai un peu près à di
 
 It looks like they're trying to break away, and their skin is like fixed. Yeah. (I see their backs stuck together, she adds when I ask to repeat).
 
-Yeah I like this board. That's all I really have to say, but I like it.",A/Ad,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
-"Alors là, je vois deux visages, avec des cheveux en l’air, qui se tournent mais en même temps qui… en fait leur tête elle est, genre retournée par rapport à leur corps, parce que j’ai l’impression que leur corps il va par là mais que leur tête elle va par là. Et là c’est genre… là c’est leur avant, fin c’est leur buste et là c’est leurs jambes je crois… Han, ouais peut-être… elles vont dans un endroit mais euh, elles veulent regarder l’autre genre. ","So there, I see two faces, with hair in the air, which are turned but at the same time which... in fact their head is, like, turned upside down in relation to their body, because I have the impression that their body goes that way but their head goes that way. And there it's like... there's their front, end it's their bust and there it's their legs I think... Han, yeah maybe... they're going to a place but uh, they want to look at the other kind.",Hd/H,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Yeah I like this board. That's all I really have to say, but I like it.",A/Ad,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Alors là, je vois deux visages, avec des cheveux en l’air, qui se tournent mais en même temps qui… en fait leur tête elle est, genre retournée par rapport à leur corps, parce que j’ai l’impression que leur corps il va par là mais que leur tête elle va par là. Et là c’est genre… là c’est leur avant, fin c’est leur buste et là c’est leurs jambes je crois… Han, ouais peut-être… elles vont dans un endroit mais euh, elles veulent regarder l’autre genre. ","So there, I see two faces, with hair in the air, which are turned but at the same time which... in fact their head is, like, turned upside down in relation to their body, because I have the impression that their body goes that way but their head goes that way. And there it's like... there's their front, end it's their bust and there it's their legs I think... Han, yeah maybe... they're going to a place but uh, they want to look at the other kind.",Hd/H,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 "Puis alors je sais pas pourquoi, mais là je vois un visage méchant, en mode euh, là c’est les yeux, là le nez, et j’sais pas là y’a un visage méchant qui regarde vers le bas.","Then I don't know why, but there I see a nasty face, in uh mode, there it's the eyes, there the nose, and I don't know there's a nasty face looking down.",Hd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 "Alors là je vois deux petites bêtes, hop tchou tchou tchou. (Fait des signes avec ses mains).","So there I see two little animals, hop chu chu chu. (Makes signs with his hands).",A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 "Là je vois une forêt du coup, pour se rapprocher des bêtes. 
 Et en fait là on dirait un feu et on dirait qu'elles s’échappent du feu pour aller dans la forêt qui n’est pas encore en feu du coup. 
 ","There I suddenly see a forest, to get closer to the animals.
 And in fact there it looks like a fire and it looks like they are escaping from the fire to go into the forest which is not yet on fire.
-","Nat/Elem/Bot/Pays/A",0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,4,0,0,0,0,0
+","Nat/Elem/Bot/Pays/A",0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
 "Ou alors euh, je vois des organes humains, c’est bizarre ça. Là je vois genre des poumons et le cœur. Ouais.","Or uh, I see human organs, that’s weird. There I see like lungs and the heart. Yeah.",Anat,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 Ou alors là je vois une fleur un peu. Je sais plus comment elles s’appellent euh... Les pensées. Je vois une pensée. Ouais puis là ça serait genre sa tige avec les feuilles. Mais je sais pas ce que ça serait ça. Je dirais des larmes mais une pensée ça peut pas pleurer. (Rires). Mais on dirait.,Or then I see a bit of a flower. I don't know what they're called anymore... Thoughts. I see a thought. Yeah then there it would be like its stem with the leaves. But I don't know what that would be. I would say tears but a thought cannot cry. (Laughs). But it looks like it.,Bot/Hd,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
-"Ou alors on peut reparler peut-être du reflet, je revois aussi un reflet, pareil qui… qui euh, qui passe d’un rocher à l’autre, la bête là, la panthère, je sais pas trop quoi, mais je la vois fuir en tout cas. Ça c’est clair et net. Même si j’en vois deux, ou une, je les vois fuir. ","Or maybe we can talk again about the reflection, I also see a reflection again, the same one which... which uh, which passes from one rock to another, the beast there, the panther, I don't really know what, but I see flee in any case. That’s clear and clear. Even if I see two, or one, I see them fleeing.",Nat/A/Pays,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0
+"Ou alors on peut reparler peut-être du reflet, je revois aussi un reflet, pareil qui… qui euh, qui passe d’un rocher à l’autre, la bête là, la panthère, je sais pas trop quoi, mais je la vois fuir en tout cas. Ça c’est clair et net. Même si j’en vois deux, ou une, je les vois fuir. ","Or maybe we can talk again about the reflection, I also see a reflection again, the same one which... which uh, which passes from one rock to another, the beast there, the panther, I don't really know what, but I see flee in any case. That’s clear and clear. Even if I see two, or one, I see them fleeing.",Nat/A/Pays,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
 "Oh, puis là je vois une main qui essaye de l’aider genre. Peut-être lui dire euh « viens ». ","Oh, then I see a hand trying to help him like. Maybe tell him uh “come”.",Hd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 "Puis au centre là, je vois une tête de zèbre, je sais pas pourquoi mais euh, une petite tête de zèbre. 
 
@@ -933,8 +933,8 @@ Voilà.
 Yeah, I like this board, the color gradients and everything, I like it.
 It makes me happier than the one in black in any case (laughs).
 So.
-",Ad/Hd/A,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0
-"(Rires) Je vois une grosse dame ! (Rires) Je vois une grosse dame avec les mains comme ça (met ses mains sur ses hanches), et là c’est ses gros cheveux (rires) et là c’est son petit visage. Mais avec une tenue d’époque genre euh, en mode euh comme les dames de la cour. Avec une grosse robe et tout, là un corset, mais avec des grosses manches bouffantes, et qui se tient comme ça (me montre). Ça se voit elle va en… crier quelqu’un genre.","(Laughs) I see a fat lady! (Laughs) I see a fat lady with her hands like that (puts her hands on her hips), and there's her big hair (laughter) and there's her little face. But with a period outfit like uh, in fashion uh like the ladies of the court. With a big dress and everything, there a corset, but with big puffed sleeves, and it sits like that (shows me). You can see she's going to... shout at someone like that.","H/Hd/Vet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,1,0,0
+",Ad/Hd/A,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+"(Rires) Je vois une grosse dame ! (Rires) Je vois une grosse dame avec les mains comme ça (met ses mains sur ses hanches), et là c’est ses gros cheveux (rires) et là c’est son petit visage. Mais avec une tenue d’époque genre euh, en mode euh comme les dames de la cour. Avec une grosse robe et tout, là un corset, mais avec des grosses manches bouffantes, et qui se tient comme ça (me montre). Ça se voit elle va en… crier quelqu’un genre.","(Laughs) I see a fat lady! (Laughs) I see a fat lady with her hands like that (puts her hands on her hips), and there's her big hair (laughter) and there's her little face. But with a period outfit like uh, in fashion uh like the ladies of the court. With a big dress and everything, there a corset, but with big puffed sleeves, and it sits like that (shows me). You can see she's going to... shout at someone like that.","H/Hd/Vet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0
 "Ou alors là je vois deux crevettes, je sais pas si c’est la couleur orange qui me fait dire ça ou… la forme bizarre mais euh, je vois des crevettes. 
 
 Elle me fait rire, parce que du coup je vois que la grosse dame. 
@@ -957,16 +957,16 @@ Ouais c’est tout. Je l’aime bien.
 Yeah that's all. I like it.
 ",Vet/Nat/(H),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1,0,0
 "Oh on dirait euh, le bleu on dirait un feu d’artifice, et là je vois la tour Eiffel. Je vois bah du coup un feu d’artifice à la tour Eiffel.","Oh it looks like uh, the blue looks like fireworks, and there I see the Eiffel Tower. Well, I see fireworks at the Eiffel Tower.",Frag/Arch,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
-"Ohh non, ou alors là on dirait un monsieur encore mais un monsieur qui sourit, lui il est bienveillant. Avec ses petites cornes genre. Non ça c’est ses sourcils en fait. Ouais j’aime bien. Là aussi je me vois un peu dans un monde féérique. En plus j’aime bien ces mondes-là alors euh…","Ohh no, or there we look like a gentleman again but a gentleman who smiles, he is benevolent. With his little horns like. No, that's his eyebrows actually. Yeah I like it. There too I see myself a little in a magical world. Plus I like these worlds so uh…","H/(Hd)/Hd/Abs",0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0
+"Ohh non, ou alors là on dirait un monsieur encore mais un monsieur qui sourit, lui il est bienveillant. Avec ses petites cornes genre. Non ça c’est ses sourcils en fait. Ouais j’aime bien. Là aussi je me vois un peu dans un monde féérique. En plus j’aime bien ces mondes-là alors euh…","Ohh no, or there we look like a gentleman again but a gentleman who smiles, he is benevolent. With his little horns like. No, that's his eyebrows actually. Yeah I like it. There too I see myself a little in a magical world. Plus I like these worlds so uh…","H/(Hd)/Hd/Abs",0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
 Et en même temps si… là je vois des petites grenouilles.,And at the same time if… there I see little frogs.,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 Ou là je vois un monsieur pas content. Genre là c’est ses deux petits yeux.,Or there I see a gentleman who is not happy. Like there are his two little eyes.,H,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-"Ou alors si je le prends comme ça, on dirait une… une mâchoire d’animal comme ça, qui fait tchouc, qui a envie de faire tchouc… sur je sais pas quoi du coup. Mais euh, ouais.","Or if I take it like that, it looks like a... an animal jaw like that, which makes choosy, which wants to make chooc... on I don't know what. But uh, yeah.",Ad/Hd/A,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0
+"Ou alors si je le prends comme ça, on dirait une… une mâchoire d’animal comme ça, qui fait tchouc, qui a envie de faire tchouc… sur je sais pas quoi du coup. Mais euh, ouais.","Or if I take it like that, it looks like a... an animal jaw like that, which makes choosy, which wants to make chooc... on I don't know what. But uh, yeah.",Ad/Hd/A,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
 "Ouais, non, je sais pas trop euh… alors c’est bizarre ce que je vais dire mais le vert on dirait un utérus d’une femme, genre ça a la même forme. 
 
 Ouais c’est tout. Mais je l’aime bien aussi cette planche-là. ","Yeah, no, I don't really know uh... so it's weird what I'm going to say but the green one looks like a woman's uterus, like it has the same shape.
 
 Yeah that's all. But I also like this board.",Sex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-"Euh, bah je vois un insecte euh, fin pff (soupir), style papillon ou, euh, fin voilà, avec… euh. Faut que je décrive euh vraiment avec des détails ou … ? Bah là, la première chose qui m’est venue voilà c’était un insecte, plus, voilà, plus vers un papillon, voilà parce que là il y a une forme de, fin vraiment on voit le corps au milieu avec euh, bah même des antennes fin bon bref, et puis voilà les ailes, de chaque côté.","Uh, well I see an insect uh, end pff (sigh), butterfly style or, uh, end there, with... uh. Should I describe uh really in detail or...? Well there, the first thing that came to me was an insect, more, there, more towards a butterfly, there because there is a shape of, well really we see the body in the middle with uh, well even antennas, well anyway, and then here are the wings, on each side.",A/Ad,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+"Euh, bah je vois un insecte euh, fin pff (soupir), style papillon ou, euh, fin voilà, avec… euh. Faut que je décrive euh vraiment avec des détails ou … ? Bah là, la première chose qui m’est venue voilà c’était un insecte, plus, voilà, plus vers un papillon, voilà parce que là il y a une forme de, fin vraiment on voit le corps au milieu avec euh, bah même des antennes fin bon bref, et puis voilà les ailes, de chaque côté.","Uh, well I see an insect uh, end pff (sigh), butterfly style or, uh, end there, with... uh. Should I describe uh really in detail or...? Well there, the first thing that came to me was an insect, more, there, more towards a butterfly, there because there is a shape of, well really we see the body in the middle with uh, well even antennas, well anyway, and then here are the wings, on each side.",A/Ad,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 "
 « Bon après coup on peut voir aussi deux têtes d’animaux euh fin bon, pareil en imaginant hein. »)
 ","
@@ -974,7 +974,7 @@ Yeah that's all. But I also like this board.",Sex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 ",Ad,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 "Alors là c’est vrai que pour le coup y’a pas énormément de différence par rapport au premier fin mis à part que là, au milieu, y’a pas le, on va dire la partie du milieu, fin je veux dire c’est plus, c’est, fin là pour le coup y’a rien, fin c’est blanc, mais voilà sur les côtés y’a quand même encore des aspects de…, des ailes, fin voilà. ","So it's true that for once there's not a huge difference compared to the first end apart from that there, in the middle, there's not the, we'll say the middle part, end I mean it it's more, it's, there's nothing there at the end, it's white, but on the sides there are still aspects of..., wings, end there.",Ad,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 "Mais bon là après, en imaginant on peut voir une allée centrale avec en bout une entrée de, de, de, de…, de porte de, de château ou je ne sais quoi, fin quelque chose d’assez euh…, d’assez grandiose on va dire.","But then, by imagining we can see a central alley with at the end an entrance of, of, of, of..., of a door of, of a castle or I don't know what, end of something quite uh..., of quite grandiose we will say.",Arch/Pays,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
-"Voilà, puis sur les côtés ça peut être une allée de, d’arbres, fin voilà de végétation ou…, voilà avec au milieu une allée centrale quoi.","There you go, then on the sides it can be an avenue of, trees, end of vegetation or..., there you go with a central avenue in the middle.",Bot/Pays,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+"Voilà, puis sur les côtés ça peut être une allée de, d’arbres, fin voilà de végétation ou…, voilà avec au milieu une allée centrale quoi.","There you go, then on the sides it can be an avenue of, trees, end of vegetation or..., there you go with a central avenue in the middle.",Bot/Pays,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 "« Maintenant ça me frappe, je vois clairement un papillon là. »)","“Now it hits me, I clearly see a butterfly there. "")",A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 "Et là je viens de voir deux têtes (rires), dos à dos.","And there I just saw two heads (laughs), back to back.",Hd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 "Euh bah là je peux, on peut imaginer voilà deux personnes face à face, plutôt assises, euh en train de discuter fin ou autre, fin bref euh. Euh. Voilà, après…
@@ -987,19 +987,19 @@ That's it, I'm going to stop there because I can't really figure out the rest...
 "Je vois un nœud papillon mais je l’ai pas dit au début, parce que je voulais avoir une cohésion avec les deux personnes-là, donc qu’est-ce qu’il fout là quoi (rires), après on peut imaginer des choses.","I see a bow tie but I didn't say it at the beginning, because I wanted to have cohesion with the two people there, so what the hell is he doing there (laughs), then we can imagine things.",Vet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
 "Si là on peut imaginer aussi des pattes d’animaux, plutôt à sabots, style chevaux, bovins...","If there we can also imagine animal legs, rather hoofed, like horses, cattle...",Ad,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 "De chaque côté on peut voir des personnes avec les jambes en l’air, voilà, à monter les jambes.","On each side we can see people with their legs in the air, there you go, raising their legs.",Hd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-"Euh, là ça peut être aussi une interprétation de, d’un insecte, euh, pff, (soupire), un insecte, je peux pas dire trop quoi, mais voilà un insecte, voilà avec des antennes, des pattes, fin…","Um, there it can also be an interpretation of, of an insect, uh, pff, (sighs), an insect, I can't really say what, but here's an insect, here it is with antennae, legs, end...",A/Ad,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+"Euh, là ça peut être aussi une interprétation de, d’un insecte, euh, pff, (soupire), un insecte, je peux pas dire trop quoi, mais voilà un insecte, voilà avec des antennes, des pattes, fin…","Um, there it can also be an interpretation of, of an insect, uh, pff, (sighs), an insect, I can't really say what, but here's an insect, here it is with antennae, legs, end...",A/Ad,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 "Voilà, après on peut imaginer un espèce de monstre ou je ne sais quoi, fin voilà, un truc imaginaire, euh, voilà avec des grands pieds, des mains un peu, fin des bras un peu bizarres, une tête un peu pointue euh, ouais voilà.","There you go, then you can imagine a kind of monster or something, end there, an imaginary thing, uh, there you have it with big feet, slightly odd hands, end of arms, a slightly pointy head uh, yeah there you go.",(A),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 Ça peut être une sorte de limace ou…,It could be some kind of slug or...,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 "Une espèce de chauve-souris, parce que y’a quand même toujours les ailes qui… peut dire que c’est un insecte volant aussi.","A kind of bat, because there are still wings which… you can say that it’s a flying insect too.",A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 "Bon, ma première vue, ma première vue c’est toujours, fin c’est toujours dans les mêmes…, dans ce qui, machine, c’est toujours un insecte qui me vient tout de suite en premier. Euh, pff, après voilà les insectes euh.","Well, my first sight, my first sight is always, well, it’s always in the same…, in what, machine, it’s always an insect that comes to me right away first. Uh, pff, then here come the insects uh.",A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 "Euh, après les extrémités voilà des côtés, fin je, je pourrais voir voilà une espèce de pattes d’animaux euh…, (soupir).","Um, after the ends here are the sides, end I, I could see here are a kind of animal legs uh…, (sigh).",Ad,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-"Le milieu ça pourrait être aussi un corps un peu bizarre d’une personne euh, fin voilà qui (rires), un corps un petit peu, hors normes mais bon, voilà, avec des petites jambes (rires), une tête et voilà à la rigueur, un bonnet, on va dire d’âne, fin.","The middle could also be a slightly odd body of a person uh, well that's it (laughs), a slightly unusual body but hey, there you go, with little legs (laughs), a head and that's it. rigor, a hat, we will say donkey, fine.",H/Hd/Obj,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0
+"Le milieu ça pourrait être aussi un corps un peu bizarre d’une personne euh, fin voilà qui (rires), un corps un petit peu, hors normes mais bon, voilà, avec des petites jambes (rires), une tête et voilà à la rigueur, un bonnet, on va dire d’âne, fin.","The middle could also be a slightly odd body of a person uh, well that's it (laughs), a slightly unusual body but hey, there you go, with little legs (laughs), a head and that's it. rigor, a hat, we will say donkey, fine.",H/Hd/Obj,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
 "Et puis une grande cape, fin, voilà.","And then a big cape, fine, that's it.",Vet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
 "Alors euh… On pourrait voir une forme un peu euh, une forme, une sorte d’étoile euh, ouais une sorte d’étoile, pas très très bien faite mais bon voilà, une étoile.","So uh... We could see a bit of a shape uh, a shape, a kind of star uh, yeah a kind of star, not very very well done but there you go, a star.",Elem,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 "Euh, au-dessus ça pourrait être un oiseau.","Um, above that could be a bird.",A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-"Après on pourrait voir aussi un insecte, hein toujours pareil, avec toujours les formes, voilà l’extrémité avec une espèce de pinces, euh, voilà la bouche, les antennes, fin. Ouais.","Afterwards we could also see an insect, eh always the same, always with the shapes, here is the end with a kind of pincers, uh, here is the mouth, the antennae, end. Yeah.",A/Ad,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+"Après on pourrait voir aussi un insecte, hein toujours pareil, avec toujours les formes, voilà l’extrémité avec une espèce de pinces, euh, voilà la bouche, les antennes, fin. Ouais.","Afterwards we could also see an insect, eh always the same, always with the shapes, here is the end with a kind of pincers, uh, here is the mouth, the antennae, end. Yeah.",A/Ad,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 "Je vois plein de choses maintenant (rires). Là deux visages, dos à dos, vraiment l’extrémité, les formes du visage. ","I see a lot of things now (laughs). There two faces, back to back, really the extremity, the shapes of the face.",Hd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-"Là on pourrait voir un animal, qui serait presque immergé dans de l’eau et y’aurait son reflet avec la tête, les yeux. Je le verrai assez allongé","There we could see an animal, which would be almost immersed in water and there would be its reflection with its head and eyes. I will see him long enough",A/Elem/Ad,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0
+"Là on pourrait voir un animal, qui serait presque immergé dans de l’eau et y’aurait son reflet avec la tête, les yeux. Je le verrai assez allongé","There we could see an animal, which would be almost immersed in water and there would be its reflection with its head and eyes. I will see him long enough",A/Elem/Ad,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
 "Alors si, on peut, on pourrait imaginer deux, alors je sais pas si c’est des personnes ou des chats, j’arrive pas trop à… (rires). On va dire deux personnes face à face, en train de se regarder fin voilà euh…","So if we can, we could imagine two, so I don’t know if it’s people or cats, I can’t really… (laughs). We're going to say two people face to face, looking at each other, there you go, uh...",H,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 "Ou alors peut-être des statues en sorte de, en personnes qui seraient posées voilà sur un socle euh. ","Or perhaps statues of a sort, in people who would be placed here on a base uh.",Obj,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
 "On pourrait voir une entrée pareil de, de porte ou je ne sais quoi, au milieu.","We could see an entrance like a door or something, in the middle.",Arch,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
@@ -1022,7 +1022,7 @@ Uh.
 "Bah, on pourrait voir euh > < ^ des sortes d’araignées on pourrait voir. >","Well, we could see uh > < ^ some kinds of spiders we could see. >",A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 "Deux visages qui, pareil, face à face, qui se regardent. Avec un corps allongé fin, un peu, bon voilà bien-sûr imaginaire.","Two faces, the same, face to face, looking at each other. With a thin, elongated body, a little, well that's of course imaginary.",Hd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 "Une euh, (soupir) un outil, une pince, fin une pince… Euh.","An uh, (sigh) a tool, a pair of pliers, a pair of pliers… Uh.",Obj,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-"Bah après c’est beaucoup euh fin, ouais des sortes d’araignées, araignées ou toiles d’araignées.","Well after that it's a lot uh end, yeah sort of spiders, spiders or cobwebs.",A/Ad,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+"Bah après c’est beaucoup euh fin, ouais des sortes d’araignées, araignées ou toiles d’araignées.","Well after that it's a lot uh end, yeah sort of spiders, spiders or cobwebs.",A/Ad,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 "Ça pourrait être aussi des feuilles, des feuilles d’arbre fin…","It could also be leaves, leaves of a fine tree...",Bot,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 "On pourrait voir quatre visages là, fin deux de plus, alors là par contre qui ne se regardent pas, qui sont dos à dos.","We could see four faces there, or two more, so there on the other hand who are not looking at each other, who are back to back.",Hd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 "Je pourrais même dire encore plus (rires), euh, alors y’aurait quatre visages dos à dos, non même six. Et euh, quatre visages face à face qui se regardent. ^
@@ -1036,7 +1036,7 @@ Une chauve-souris,A bat,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Un scarabée,A beetle,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 Une tache d'encre non de sang... ouais,An ink stain not blood...yeah,Frag/Sg,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1
 On dirait que c’est une chauve-souris qui prend son envol et un scarabée en bas,It looks like it's a bat taking flight and a beetle below,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-"Un monstre avec les yeux, la bouche et qui me regarde méchamment. Comme le clown de … vous savez Ça",A monster with eyes and a mouth that looks at me evilly. Like the clown from... you know that,(H)/(Hd)/ Hbarré,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0
+"Un monstre avec les yeux, la bouche et qui me regarde méchamment. Comme le clown de … vous savez Ça",A monster with eyes and a mouth that looks at me evilly. Like the clown from... you know that,(H)/(Hd)/ Hbarré,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 Oh ! Du sang,Oh ! Some blood,Sg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 L’os qu’on a dans le crâne,The bone we have in the skull,Hd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 Des taches de sang par exemple comme si on s’était scarifié et qu’on avait écrit sur un mur avec [mime la scarification sur le bras],Blood stains for example as if you had scarified yourself and had written on a wall with [mimes the scarification on the arm],Frag/Sg,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1
@@ -1050,7 +1050,7 @@ Un papillon,A butterfly,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 La papillon est comme le sternum et ça le monstre qui m’emprisonne en permanence.,The butterfly is like the sternum and that is the monster that permanently imprisons me.,Anat/(H),0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
 "J’ai l’impression que c’est une représentation de mon corps, le cœur autour avec une ficelle, un cœur broyé.","I feel like it’s a representation of my body, the heart around it with a string, a crushed heart.",Hd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 Le monstre pour la dépression et le brouillard pour le fait que je suis perdu ou le masque pour montrer que je vais bien.,The monster for the depression and the fog for the fact that I'm lost or the mask to show that I'm okay.,(H)/Frag/Abs,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0
-"Je vois un énorme monstre. C’est la bête noire que j’ai au fond de moi avec la tête. Pour moi c’est la colère, la rage que j’ai au fond de moi. J’ai presque peur.","I see a huge monster. It’s the pet peeve that I have deep down in my head. For me it's the anger, the rage that I have deep inside me. I'm almost afraid.",(H)/(A)/(Ad),1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0
+"Je vois un énorme monstre. C’est la bête noire que j’ai au fond de moi avec la tête. Pour moi c’est la colère, la rage que j’ai au fond de moi. J’ai presque peur.","I see a huge monster. It’s the pet peeve that I have deep down in my head. For me it's the anger, the rage that I have deep inside me. I'm almost afraid.",(H)/(A)/(Ad),1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
 "C’est toute la noirceur, le vide, la noirceur que je ressens en permanence. Elle fait peur celle-là.","It’s all the darkness, the emptiness, the darkness that I feel all the time. That one is scary.",Frag,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 Un monstre qui veut et qui m’engloutit. Elle fait peur celle-là.,A monster that wants and engulfs me. That one is scary.,(H),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 Je dirais un papillon qui vient à peine d’être transformé entre la larve et le papillon,I would say a butterfly which has just been transformed between the larva and the butterfly,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
@@ -1059,7 +1059,7 @@ Je vois des ailes. Je ne sais pas sur celle-là.,I see wings. I don't know about
 
 Voilà.","Wings of a butterfly which has just transformed which leaves in life but it is black. It looks like he is going to face life but not quite face it because he is all black and does not yet have his colors. It’s a bit like me facing the outside world. There is this monster from before which prevents me from taking flight.
 
-So.",Ad/A,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+So.",Ad/A,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 Une épée … le noir est moins intense.,A sword... black is less intense.,Obj,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
 "Je
 vois le monstre d’avant [planche IV] comme si le papillon d’avant [planche V]
@@ -1330,7 +1330,7 @@ Un sexe de femme avec le pubis.,A woman's penis with pubis.,Sex,0,0,0,0,0,0,0,0,
  of flame. And it's like
  like you're trying to make
  smoke signals or something
- it",Pays/ Elem,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+ it",Pays/ Elem,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 "Et maintenant que j’ai vu
  ça, de l’autre côté je vois
  exactement la même chose. Juste
@@ -1434,10 +1434,10 @@ Un sexe de femme avec le pubis.,A woman's penis with pubis.,Sex,0,0,0,0,0,0,0,0,
  skeleton, the eyes here and
  it's a bit frightening, you see, because
  because I find your eyes a bit
- weird, you know",Squel /Ad,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+ weird, you know",Squel /Ad,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 "Ça fait un peu labyrinthe
  de Pan","It's a bit of a maze
- of Pan",Arch / Art,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+ of Pan",Arch / Art,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
 ": Puis pour le coup, si on
  occulte un peu l’espèce d’ours qui
  saute, en fait, ça fait vachement
@@ -1460,7 +1460,7 @@ Un sexe de femme avec le pubis.,A woman's penis with pubis.,Sex,0,0,0,0,0,0,0,0,
  (gray) and the rising sun side
  (orange), with pretty flowers and
  in the middle the delta with a little
- less humidity and the sky",Pays / Elem / Frag / Bot,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0
+ less humidity and the sky",Pays / Elem / Frag / Bot,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
 "humhum ; Là si on
  regarde que le blanc, pas les
  couleurs, tu vois deux personnes
@@ -1486,7 +1486,7 @@ Un sexe de femme avec le pubis.,A woman's penis with pubis.,Sex,0,0,0,0,0,0,0,0,
  (shows), there's someone with a whitish
  whitish mask, the eyes and he has
  forehead with a kind of large
- skullcap, it's a big head",H / Mq / vêt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,2,0,0
+ skullcap, it's a big head",H / Mq / vêt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0
 "Ça me fait même penser
  un peu au masque japonais un peu,
  les masques que portaient les
@@ -1854,7 +1854,7 @@ Un sexe de femme avec le pubis.,A woman's penis with pubis.,Sex,0,0,0,0,0,0,0,0,
  changes color.
  Anyway, everything's going in the same direction
  the same way That's it, in fact it doesn't inspire me
- a lot of inspiration",Pays / arch / Elem / Frag,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0
+ a lot of inspiration",Pays / arch / Elem / Frag,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0
 ": Là ça me fait penser à une
  chèvre (rires), et pour le coup c’est
  pas trop mal je trouve.
