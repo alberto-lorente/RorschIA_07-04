@@ -1,0 +1,14 @@
+The data is located within the Nancy_clean_data folder.
+
+For each language (Eng/French) text there are:
+
+			- A csv file with the individual determinant labels as one hot encoded features.
+			- A csv file with the individual content labels as one hot encoded features.
+			- A csv file with the macro determinant labels as one hot encoded features.
+			- A csv file with the macro content labels as one hot encoded features.
+
+			- A csv file with the original Contenu column + English text + French text + individual labels + macro labels (one-hot encoded)
+			- A csv file with the original Detérminant column + English text + French text + individual labels + macro labels (one-hot encoded)
+
+
+
