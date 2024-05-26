@@ -1,0 +1,2 @@
+Covid RorschData is the first dataset that was tried.
+Nancy PsyData is the final dataset used.
