@@ -22,7 +22,7 @@ tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
 classifications = ["individual_determinants", "macro_determinants", "individual_contents","macro_contents"]
 
 
-#########################---CLASSIFICATION FX
+######################---CLASSIFICATION FX
 
 def classification_info(classification):
     

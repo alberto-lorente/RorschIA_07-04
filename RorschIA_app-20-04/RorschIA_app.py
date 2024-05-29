@@ -3,13 +3,18 @@ import pandas as pd
 import deepl
 from langdetect import detect
 import pickle
-
+import torch
+import spacy
+from itertools import compress
+from transformers import BertModel, BertTokenizer
 from functions import raw_text_response_eval
-from functions import get_np
-from functions import evaluate_one_vs_rest_transformer
+from functions import evaluate_text
 
-path_contents = 'RorschIA_app/sentence_transformer_contents_V23-18-04.sav'
-path_determinants = 'RorschIA_app/sentence_transformer_determinants_V23-18-04.sav'
+nlp = spacy.load('en_core_web_sm')
+tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+classifications = ["individual_determinants", "macro_determinants", "individual_contents","macro_contents"]
+
+# May need to change the info_dict to put the right path for the models
 
 st.title("RorschIA")
 text_entered = st.text_input("Paste the text of your protocol or sentence :)")
@@ -17,39 +22,13 @@ process_button = st.button("Process")
 
 if process_button == True:
     try:
-        evaluation, list_dicts = raw_text_response_eval(text_entered)
-        st.write("The protocol was parsed successfully!")
-        
-        report = st.write("REPORT")
-        for figure_dict in list_dicts:
-            
-            # maybe hacer 3 boxes, 1 para qué figura es/imagen de la figura, otro para la columna y otra para el valor 
-            
-            # print(figure_dict)
-            # print(type(figure_dict))
-            for figure in figure_dict:
-                response_dict = figure_dict[figure] # list of responses 
-                # print(response_dict)
-                for individual_response in response_dict:
-                    
-                    individual_response["Sentence"] = individual_response.pop("response")
-                    individual_response["Response"] = individual_response.pop("noun_phrase")
-                    individual_response["Determinant label"] = individual_response.pop("determinant")
-                    individual_response["Content label"] = individual_response.pop("content")
-                
-                    for k, v in individual_response.items():
-                        
-                        if k !="figure":
-                            text_report = st.write(k, ":", v)
-                        
-        # st.write("JSON Results")
-        # st.write(list_dicts)
-        
+        # will go through if it is a full report 
+        evaluation = raw_text_response_eval(text_entered)
         csv = evaluation.to_csv()
-        
         st.download_button(label='Download CSV', data=csv, file_name='RorschIA_results.csv', mime='text/csv')
         
     except:
+        # will trigger if the response is a plain sentence
         lang = detect(text_entered)
         if lang == "fr":
             # st.write("French")
@@ -59,39 +38,14 @@ if process_button == True:
             translator = deepl.Translator(API_KEY)
             result = translator.translate_text(text_entered, target_lang="EN-US", preserve_formatting=True)
             response = result.text
-            
         else: # language will be english
             response = text_entered
             
-        response_tuple = get_np(response) # noun phrase segmentation
+        st.write("*Response sentence*: {} ".format(response))
         
-        st.write("*SENTENCE*: {} ".format(text_entered))
-        
-        if response_tuple[1] == True: #    THERE IS COORDINATION!
-            response = response_tuple[0]
-            
-            format_dict = str.maketrans({"[": "" , "]": "", "'": ""})
-            formated_response = str(response).translate(format_dict)
-            st.write("Response: {} ".format(formated_response))
-            
-            for np in response:
-                content = evaluate_one_vs_rest_transformer(path_contents, response)
-                determinant = evaluate_one_vs_rest_transformer(path_determinants, response)
-                
-                
-                
-                st.write("Content for '**{}**' : {} ".format(np, content))
-                st.write("Determinant for '**{}**' : {} ".format(np, determinant))
-        
-        else: # No coordination
-            response = response_tuple[0]
-            content = evaluate_one_vs_rest_transformer(path_contents, response)
-            determinant = evaluate_one_vs_rest_transformer(path_determinants, response)
-            
-            st.write("Response: {} ".format(response))
-            st.write("Content: {} ".format(content))
-            st.write("Determinant: {} ".format(determinant))
-
-
+        for model in classifications:
+            classification = evaluate_text(model, response)
+            # print(classification)
+            st.write("{} : **{}** ".format(classification, classification))
 
 
