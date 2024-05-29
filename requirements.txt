@@ -8,11 +8,3 @@ transformers==4.37.2
 torch==2.3.0+cu121
 
 en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
-
-best_model_RorschIA_macro_contents.pt @ https://huggingface.co/alberto-lorente/RorschIA_macro_determinants/blob/main@5b2e323
-
-best_model_RorschIA_macro_determinants.pt @ https://huggingface.co/alberto-lorente/RorschIA_macro_determinants/blob/main@9476872
-
-best_model_RorschIA_individual_contents.pt @ https://huggingface.co/alberto-lorente/RorschIA_individual_contents/blob/main@307210c
-
-best_model_RorschIA_individual_determinants.pt @ https://huggingface.co/alberto-lorente/RorschIA_individual_determinants/blob/main@c80a65e
