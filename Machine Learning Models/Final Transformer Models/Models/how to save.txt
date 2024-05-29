@@ -1,3 +1,0 @@
-https://huggingface.co/docs/transformers/v4.41.2/en/main_classes/model#transformers.PreTrainedModel.save_pretrained
-
-use push to hug with the name of the repo to save to 
