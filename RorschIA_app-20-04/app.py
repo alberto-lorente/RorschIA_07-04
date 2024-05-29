@@ -20,14 +20,18 @@ st.title("RorschIA")
 text_entered = st.text_input("Paste the text of your protocol or sentence :)")
 process_button = st.button("Process")
 
+list_figures = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII"]
+
 if process_button == True:
-    try:
+    doc = nlp(process_button)
+    tokens = [token for token in doc if token in list_figures]
+    if len(tokens) > 4:
         # will go through if it is a full report 
         evaluation = raw_text_response_eval(text_entered)
         csv = evaluation.to_csv()
         st.download_button(label='Download CSV', data=csv, file_name='RorschIA_results.csv', mime='text/csv')
         
-    except:
+    else:
         # will trigger if the response is a plain sentence
         lang = detect(text_entered)
         if lang == "fr":
