@@ -1,8 +1,19 @@
-Prototype for RorschIA 25-05.
+RorschIA Project
 
-Basic streamlit webpage in https://rorschia.streamlit.app/ , code in the RorschIA_app folder :)
+Web App is hosted in https://huggingface.co/spaces/alberto-lorente/RorschIA , 
+Repo in https://huggingface.co/spaces/alberto-lorente/RorschIA/tree/main :)
 
-The current functionalities are the following: the script parses the text, it organizes it and translates it. Then it splits the sentences based on punctuation and sentence segmentation. It runs each noun phrase through four bert transformers models, two for contents and another two for determinants. Finally, it prints a little report in English for each figure and response. For an example of the output you can quickly look at the Prototype notebook or you can check out the streamlit app, https://rorschia.streamlit.app/ .
+Organization of the Repository
+
+The datasets are in the Dataset folders, with one folder dedicated to the exploration, celeaning and storing of each dataset used.
+
+Machine Learning Models contains the development for the both types of models as well as the analysis of their results. The final models themselves are accesible in the Web App repository and in https://huggingface.co/alberto-lorente . 
+
+Finally, the RorschIA_app folder contains the code for the app, minus the models. It is a copy from the Web App repository.
+
+RorschIA APP
+
+The current functionalities are the following: the script parses the text, it organizes it and translates it. Then it splits the sentences based on punctuation and sentence segmentation. It runs each sentence through four bert transformers models, two for contents and another two for determinants. Finally, it prints a little report in English for each figure and response. For an example of the output you can quickly look at the Prototype notebook or you can check out the app in the link above.
 
 * The development python notebook is included in case you are interested in having a deeper look under the hood. 
 
