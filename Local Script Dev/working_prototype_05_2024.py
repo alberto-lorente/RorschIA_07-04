@@ -1,4 +1,4 @@
-from RorschIA_functions_18_04 import raw_text_response_eval
+from RorschIA_functions_05_2024 import raw_text_response_eval
 
 file_path = input("Copy and paste the path of the text doc.\n\n")
 
