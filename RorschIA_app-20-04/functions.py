@@ -58,7 +58,6 @@ def determine_model_class(labels, path):
     class BERTClass(torch.nn.Module):
         def __init__(self):
             super(BERTClass, self).__init__()
-            # self.bert_model = LongformerModel.from_pretrained('allenai/longformer-base-4096', return_dict=True, problem_type="multi_label_classification")
             self.bert_model = BertModel.from_pretrained("bert-base-uncased", return_dict=True, problem_type="multi_label_classification")
 
             self.dropout = torch.nn.Dropout(0.3) 
@@ -77,15 +76,15 @@ def determine_model_class(labels, path):
             return output
         
     model = BERTClass()
-    checkpoint = torch.load(path)
+    checkpoint = torch.load(path,  map_location=torch.device('cpu'))
     model.load_state_dict(checkpoint['state_dict'])
-    device = torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu')
+    device = torch.device('cpu')
     model.to(device)
     
     return model, device
 
 def preprocess_text(text):
-
+    tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
     encodings = tokenizer.encode_plus(
         text,
         None,

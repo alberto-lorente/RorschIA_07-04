@@ -11,7 +11,7 @@ from functions import raw_text_response_eval
 from functions import evaluate_text
 
 nlp = spacy.load('en_core_web_sm')
-tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+
 classifications = ["individual_determinants", "macro_determinants", "individual_contents","macro_contents"]
 
 # May need to change the info_dict to put the right path for the models
@@ -20,10 +20,10 @@ st.title("RorschIA")
 text_entered = st.text_input("Paste the text of your protocol or sentence :)")
 process_button = st.button("Process")
 
-list_figures = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII"]
+list_figures = ["II", "III", "IV", "V", "VI", "VII", "VIII"]
 
 if process_button == True:
-    doc = nlp(process_button)
+    doc = nlp(text_entered)
     tokens = [token for token in doc if token in list_figures]
     if len(tokens) > 4:
         # will go through if it is a full report 
@@ -49,7 +49,13 @@ if process_button == True:
         
         for model in classifications:
             classification = evaluate_text(model, response)
+            if "individual" in model:
+                class_type = model.split("_")
+                name_class = "canonical_" + class_type[1]
+            else:
+                name_class = model
+            
             # print(classification)
-            st.write("{} : **{}** ".format(classification, classification))
+            st.write("{} : **{}** ".format(name_class, classification))
 
 
